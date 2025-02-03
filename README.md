@@ -1,5 +1,6 @@
 Hello! Welcome to Leo's Study Guides!
 
+![StudyGuideimage](https://mattcoaty.com/wp-content/uploads/2018/07/screen-shot-2018-07-22-at-9-01-21-pm.png?w=475&h=333)
 # Study Guides:
 
 ## Language Arts ([Mr. Oncay's Lesson Plan](https://docs.google.com/document/d/e/2PACX-1vQFTsC3vhnpUEraeSW_NVfDyRpIqGIgXqMWxWG9FkpOoa6aBB50LY3WmR9TfYeldy0EZMh_rEUh_Hzk/pub))
