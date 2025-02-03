@@ -11,7 +11,7 @@ Hello! Welcome to Leo's Study Guides!
 ## Social Studies ([Mrs. Gasparik's Lesson Plan](https://classroom.google.com/c/NzA0MjgyNzczNDg3)):
 
 1. [Articles of Confederation Quiz Review](StudyGuides/SS/AoCReview.md)
-
+2. [Race To Ratify Game](https://classroom.google.com/c/NzA0MjgyNzczNDg3/a/Njg4Mzk0NjI5OTYy/details?pli=1)
 ## Science ([Mrs. B's Lesson Plan](https://classroom.google.com/c/NzAyMjIxNjczMzg4))
 
 1. [Segment 5, Scope 1 and 2](StudyGuides/Science/Segment5Scope1and2.md)
