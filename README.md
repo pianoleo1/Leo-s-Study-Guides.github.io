@@ -10,7 +10,7 @@ Hello! Welcome to Leo's Study Guides!
 
 1. [Articles of Confederation Quiz Review](StudyGuides/SS/AoCReview.md)
 
-## Science ([Mrs. B's Lesson Plan](https://docs.google.com/document/d/1M0L4OKg2YiKQ1N3kDjNxc6207advZIAc_39O61uGZBM/edit?tab=t.0))
+## Science ([Mrs. B's Lesson Plan](https://classroom.google.com/c/NzAyMjIxNjczMzg4))
 
 1. [Segment 5, Scope 1 and 2](StudyGuides/Science/Segment5Scope1and2.md)
 
