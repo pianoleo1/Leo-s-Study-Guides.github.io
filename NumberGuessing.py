@@ -7,7 +7,7 @@ if userinput == 1:
   userinput = input(f"Is it {guessnum}? (too high/too low) ")
   while True:
     if userinput == "high":
-      guessnum = guessnum//2 + (guessnum - guessnum//2)//2
+      guessnum = guessnum - guessnum//2
       userinput = input(f"Is it {guessnum}? (too high/too low/yes) ")
       if userinput == "yes":
         print("Yay! I guessed correctly. The number is ",guessnum,".")
