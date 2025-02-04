@@ -6,7 +6,8 @@ Hello! Welcome to Leo's Study Guides!
 ## Language Arts ([Mr. Oncay's Lesson Plan](https://docs.google.com/document/d/e/2PACX-1vQFTsC3vhnpUEraeSW_NVfDyRpIqGIgXqMWxWG9FkpOoa6aBB50LY3WmR9TfYeldy0EZMh_rEUh_Hzk/pub))
 
 1. [Argument Vocab List](StudyGuides/LA/ArgumentVocab.md)
-2. [Outsiders Theme Essay](https://docs.google.com/document/d/1Yo6fIl10bOyPXuwYECGLnGoELVwjOplQBENJfKz4gCk/edit?tab=t.0)
+2. [Argument Vocab Matching Game](https://www.quia.com/mc/3197210.html)
+3. [Outsiders Theme Essay](https://docs.google.com/document/d/1Yo6fIl10bOyPXuwYECGLnGoELVwjOplQBENJfKz4gCk/edit?tab=t.0)
 
 ## Social Studies ([Mrs. Gasparik's Lesson Plan](https://classroom.google.com/c/NzA0MjgyNzczNDg3)):
 
