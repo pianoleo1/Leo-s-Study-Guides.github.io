@@ -12,12 +12,14 @@ Hello! Welcome to Leo's Study Guides!
 
 1. [Articles of Confederation Quiz Review](StudyGuides/SS/AoCReview.md)
 2. [Race To Ratify Game](https://classroom.google.com/c/NzA0MjgyNzczNDg3/a/Njg4Mzk0NjI5OTYy/details?pli=1)
+
 ## Science ([Mrs. B's Lesson Plan](https://classroom.google.com/c/NzAyMjIxNjczMzg4))
 
 1. [Segment 5, Scope 1 and 2](StudyGuides/Science/Segment5Scope1and2.md)
 
 ## Drama ([Mr. Oncay's Lesson Plan](https://docs.google.com/document/d/e/2PACX-1vT1gk9KErY1FvxmgiuXBwR_Kq1jhdxEZODHJeLxZchTZdeBRmof58P71ZAPkCVZ0cU7PtGgzQ7iVtGn/pub))
 
+1. [One Minute Skit Directions](APznzaYgznAB7LqW9sm0XlhLA_zWVS-Z-txs8h0XSCPClBi5B5iFvIoIvdRLpfIEpTKkgsSeRyd_UCyGhrdBj53Y8vlMI7WZQ3_cAWVff-wJqDNutxqzuMup9dQQ-OCW4FsusPNsed7ONiGXhugE9ko-mC7aU1-7fpE0DRzHZK6u9q03l67vunxHpMR1rsUJ8ssPrE0pUN-_bl-amG4wGEdeOJ2Ulm-WsLzg1XdBj3131jyy.pdf)
 ## Math ([Mrs. Manolescu's Lesson Plan](https://classroom.google.com/c/NzAzOTgxNjIwNDU2))
 
 ## Beginning Band ([Mr. Arnold's Lesson Plan](https://classroom.google.com/c/NzA4OTUwMjM4NTg3))
