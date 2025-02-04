@@ -3,12 +3,20 @@ userinput = int(input("Welcome to the number guessing game! Would you like to pl
 if userinput == 1:
   print("Entering computer guessing mode...")
   guessnum = int(input("What is the maximum number that I can guess? "))
+  guessnum = guessnum//2
+  userinput = input(f"Is it {guessnum}? (too high/too low)")
   while True:
-    guessnum = guessnum//2
-    userinput = input("Is it",guessnum,"? (too high/too low)")
     if userinput == "too high":
       guessnum = guessnum//2
-      print("Is it",guessnum,"? (too high/too low)")
+      userinput = input(f"Is it {guessnum}? (too high/too low/yes)")
+      if userinput == "yes":
+        print("Yay! I guessed correctly. The number is ",guessnum,".")
+        quit()
+      else:
     if userinput == "too low":
       guessnum = guessnum + guessnum//2
-      print("Is it",guessnum,"? (too high/too low)")
+      userinput = input(f"Is it {guessnum}? (too high/too low/yes)")
+      if userinput == "yes":
+        print("Yay! I guessed correctly. The number is ",guessnum,".")
+        quit()
+      else:
