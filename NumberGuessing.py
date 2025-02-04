@@ -4,7 +4,7 @@ if userinput == 1:
   print("Entering computer guessing mode...")
   guessnum = int(input("What is the maximum number that I can guess? "))
   guessnum = guessnum//2
-  userinput = input(f"Is it {guessnum}? (too high/too low)")
+  userinput = input(f"Is it {guessnum}? (too high/too low) ")
   while True:
     if userinput == "high":
       guessnum = guessnum + (guessnum - guessnum//2)//2
