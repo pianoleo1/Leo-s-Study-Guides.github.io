@@ -20,6 +20,7 @@ Hello! Welcome to Leo's Study Guides!
 ## Drama ([Mr. Oncay's Lesson Plan](https://docs.google.com/document/d/e/2PACX-1vT1gk9KErY1FvxmgiuXBwR_Kq1jhdxEZODHJeLxZchTZdeBRmof58P71ZAPkCVZ0cU7PtGgzQ7iVtGn/pub))
 
 1. [One Minute Skit Directions](APznzaYgznAB7LqW9sm0XlhLA_zWVS-Z-txs8h0XSCPClBi5B5iFvIoIvdRLpfIEpTKkgsSeRyd_UCyGhrdBj53Y8vlMI7WZQ3_cAWVff-wJqDNutxqzuMup9dQQ-OCW4FsusPNsed7ONiGXhugE9ko-mC7aU1-7fpE0DRzHZK6u9q03l67vunxHpMR1rsUJ8ssPrE0pUN-_bl-amG4wGEdeOJ2Ulm-WsLzg1XdBj3131jyy.pdf)
+
 ## Math ([Mrs. Manolescu's Lesson Plan](https://classroom.google.com/c/NzAzOTgxNjIwNDU2))
 
 ## Beginning Band ([Mr. Arnold's Lesson Plan](https://classroom.google.com/c/NzA4OTUwMjM4NTg3))
