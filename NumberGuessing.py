@@ -12,11 +12,9 @@ if userinput == 1:
       if userinput == "yes":
         print("Yay! I guessed correctly. The number is ",guessnum,".")
         quit()
-      else:
     if userinput == "too low":
       guessnum = guessnum + guessnum//2
       userinput = input(f"Is it {guessnum}? (too high/too low/yes)")
       if userinput == "yes":
         print("Yay! I guessed correctly. The number is ",guessnum,".")
         quit()
-      else:
