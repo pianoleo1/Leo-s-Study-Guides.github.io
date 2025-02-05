@@ -37,7 +37,10 @@ while True:
             prevnum = 2*guessnum - prevnum
           userinput = input(f"Is it {guessnum}? (too high/too low/yes) ")
         if userinput == "yes":
-          guessed()
+          if not guessed():
+            break
+          else:
+            break
 
     if userinput == "low":
       guessnum = 750
@@ -60,4 +63,7 @@ while True:
             prevnum = 2*guessnum - prevnum
           userinput = input(f"Is it {guessnum}? (too high/too low/yes) ")
         if userinput == "yes":
-          guessed()
+          if not guessed():
+            break
+          else:
+            break
