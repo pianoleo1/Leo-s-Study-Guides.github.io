@@ -1,11 +1,6 @@
 # Number Guessing Game
-def guessed():
-  userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
-  if userinput == "yes":
-    print("Okay!")
-    return True
-  else:
-    quit()
+import random
+
 while True:
   userinput = int(input("Welcome to the number guessing game! Would you like to play computer guessing mode (1) or human mode (2)? "))
   if userinput == 1:
@@ -27,7 +22,12 @@ while True:
             prevnum = (2*guessnum + prevnum)//3
           userinput = input(f"Is it {guessnum}? (too high/too low/yes) ")
           if userinput == "yes":
-            guessed()
+            userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
+            if userinput != "yes":
+              print("Okay!")
+              break
+            else:
+              break
         if userinput == "low":
           if prevnum < guessnum:
             guessnum = guessnum + (guessnum - prevnum)//2
@@ -37,7 +37,9 @@ while True:
             prevnum = 2*guessnum - prevnum
           userinput = input(f"Is it {guessnum}? (too high/too low/yes) ")
         if userinput == "yes":
-          if not guessed():
+          userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
+          if userinput != "yes":
+            print("Okay!")
             break
           else:
             break
@@ -63,12 +65,37 @@ while True:
             prevnum = 2*guessnum - prevnum
           userinput = input(f"Is it {guessnum}? (too high/too low/yes) ")
         if userinput == "yes":
-          if not guessed():
+          userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
+          if userinput != "yes":
+            print("Okay!")
             break
           else:
             break
     if userinput == "yes":
-      if not guessed():
+      userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
+      if userinput != "yes":
+        print("Okay!")
         break
       else:
         break
+  if userinput == 2:
+    print("Entering Human Guessing Mode...")
+    userinput = int(input("Enter the maxinum number I can think of: "))
+    rannum = random.randint(1,userinput)
+    print("I am thinking of a random number between 1 and",userinput,". I will tell you whether your guess was too high or too low until you guess right.")
+    while True:
+      userinput = int(input("What is my number? "))
+      if userinput > rannum:
+        print("""The number is too high.
+              
+              """)
+      if userinput < rannum:
+        print("""The number is too low.
+              
+              """)
+      if userinput == rannum:
+        userinput = input(f"Yay! You guessed correctly! The number is {rannum}. Would you like to play again? (yes/no) ")
+        if userinput != "yes":
+          break
+        else:
+          break
