@@ -1,6 +1,6 @@
 # Number Guessing Game
 def guessed():
-  userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no)")
+  userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
   if userinput == "yes":
     print("Okay!")
     return True
@@ -13,10 +13,10 @@ while True:
     guessnum = int(input("What is the maximum number that I can guess? "))
     guessnum = guessnum//2
     prevnum = guessnum
-    userinput = input(f"Is it {guessnum}? (too high/too low) ")
+    userinput = input(f"Is it {guessnum}? (too high/too low/yes) ")
     if userinput == "high":
-      guessnum = 250
-      userinput = input("Is it 250? ")
+      guessnum = guessnum//2
+      userinput = input(f"Is it {guessnum}? ")
       while True:
         if userinput == "high":
           if prevnum < guessnum:
@@ -43,8 +43,8 @@ while True:
             break
 
     if userinput == "low":
-      guessnum = 750
-      userinput = input("Is it 750? ")
+      guessnum = guessnum + guessnum//2
+      userinput = input(f"Is it {guessnum}? ")
       while True:
         if userinput == "high":
           if prevnum < guessnum:
@@ -67,3 +67,8 @@ while True:
             break
           else:
             break
+    if userinput == "yes":
+      if not guessed():
+        break
+      else:
+        break
