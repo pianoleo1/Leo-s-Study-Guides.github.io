@@ -3,6 +3,7 @@ def guessed():
   userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no)")
   if userinput == "yes":
     print("Okay!")
+    return True
   else:
     quit()
 while True:
