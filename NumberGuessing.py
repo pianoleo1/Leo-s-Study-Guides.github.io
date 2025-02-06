@@ -25,7 +25,7 @@ while True:
             userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
             if userinput != "yes":
               print("Okay!")
-              break
+              quit()
             else:
               break
         if userinput == "low":
@@ -40,7 +40,7 @@ while True:
           userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
           if userinput != "yes":
             print("Okay!")
-            break
+            quit()
           else:
             break
 
@@ -68,14 +68,14 @@ while True:
           userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
           if userinput != "yes":
             print("Okay!")
-            break
+            quit()
           else:
             break
     if userinput == "yes":
       userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
       if userinput != "yes":
         print("Okay!")
-        break
+        quit()
       else:
         break
   if userinput == 2:
@@ -96,6 +96,6 @@ while True:
       if userinput == rannum:
         userinput = input(f"Yay! You guessed correctly! The number is {rannum}. Would you like to play again? (yes/no) ")
         if userinput != "yes":
-          break
+          quit()
         else:
           break
