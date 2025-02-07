@@ -1,7 +1,6 @@
 # Number Guessing Game
 import random
 
-
 def play_again():
   userinput = int(input("Welcome to the number guessing game! Would you like to play computer guessing mode (1) or human mode (2)? "))
   if userinput == 1:
