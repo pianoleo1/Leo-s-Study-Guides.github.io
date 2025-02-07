@@ -1,7 +1,8 @@
 # Number Guessing Game
 import random
 
-while True:
+
+def play_again():
   userinput = int(input("Welcome to the number guessing game! Would you like to play computer guessing mode (1) or human mode (2)? "))
   if userinput == 1:
     print("Entering computer guessing mode...")
@@ -21,13 +22,6 @@ while True:
             guessnum = guessnum - (prevnum - guessnum)//2
             prevnum = (2*guessnum + prevnum)//3
           userinput = input(f"Is it {guessnum}? (too high/too low/yes) ")
-          if userinput == "yes":
-            userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
-            if userinput != "yes":
-              print("Okay!")
-              exit()
-            else:
-              break
         if userinput == "low":
           if prevnum < guessnum:
             guessnum = guessnum + (guessnum - prevnum)//2
@@ -42,7 +36,7 @@ while True:
             print("Okay!")
             exit()
           else:
-            break
+            play_again()
 
     if userinput == "low":
       guessnum = guessnum + guessnum//2
@@ -70,14 +64,15 @@ while True:
             print("Okay!")
             exit()
           else:
-            break
+            play_again()
     if userinput == "yes":
       userinput = input(f"Yay! I guessed correctly. The number is {guessnum}. Play again?(yes/no) ")
       if userinput != "yes":
         print("Okay!")
         exit()
       else:
-        break
+        play_again()
+      
   if userinput == 2:
     print("Entering Human Guessing Mode...")
     userinput = int(input("Enter the maxinum number I can think of: "))
@@ -98,4 +93,6 @@ while True:
         if userinput != "yes":
           exit()
         else:
-          break
+          play_again()
+
+play_again()
