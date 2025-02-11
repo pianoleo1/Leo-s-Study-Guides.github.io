@@ -25,6 +25,8 @@ Hello! Welcome to Leo's Study Guides!
 
 ## Math ([Mrs. Manolescu's Lesson Plan](https://classroom.google.com/c/NzAzOTgxNjIwNDU2))
 
+1. [Quad. Proof Test Prep](StudyGuides/Math/QuadProofStudyGuide.md)
+
 ## Beginning Band ([Mr. Arnold's Lesson Plan](https://classroom.google.com/c/NzA4OTUwMjM4NTg3))
 1. [Written Test January Study Guide](StudyGuides/BegBand/WrittenTestStudyJan.md)
 
