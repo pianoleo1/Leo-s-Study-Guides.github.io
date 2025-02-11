@@ -31,4 +31,4 @@ Hello! Welcome to Leo's Study Guides!
 1. [Written Test January Study Guide](StudyGuides/BegBand/WrittenTestStudyJan.md)
 
 ## Misc.
-1. [Number Guessing Game](NumberGuessing.py)
+1. [Number Guessing Game](NumberGuessingJava.html)
