@@ -1,3 +1,8 @@
+---
+title: README
+permalink: /readme/
+---
+
 Hello! Welcome to Leo's Study Guides!
 
 ![StudyGuideimage](https://mattcoaty.com/wp-content/uploads/2018/07/screen-shot-2018-07-22-at-9-01-21-pm.png?w=475&h=333)
