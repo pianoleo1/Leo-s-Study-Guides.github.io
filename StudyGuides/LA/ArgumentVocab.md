@@ -1,3 +1,6 @@
+---
+title: ArgumentVocab
+---
 
 List | Word | Definition
 --- | --- | ---
