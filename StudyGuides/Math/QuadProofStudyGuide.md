@@ -1,3 +1,7 @@
+---
+title: QuadProofStudyGuide
+---
+
 # Quadrilateral Proof Study Guide - Made By Leo
 
 ## Names
