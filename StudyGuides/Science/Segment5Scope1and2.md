@@ -1,3 +1,7 @@
+---
+title: Segment5Scope1and2
+---
+
 # Study Guide 1/30/2025
 
 ## Segment 5, Scope 1
