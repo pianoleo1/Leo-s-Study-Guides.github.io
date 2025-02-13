@@ -29,30 +29,79 @@
         
         body {
             background-color: #e3ffe5;
+            font-family:Georgia, 'Times New Roman', Times, serif;
         }
 
         .button {
             display: inline-block;
-            background-color: blue;
-            color: white;
+            background-color: #1cfd67;
+            color: black;
             padding: 10px 20px;
             text-decoration: none;
-            border-radius: 5px;
+            border-radius: 20px;
             font-size: 16px;
+            transition: 0.3s;
         }
 
         .button:hover {
-            background-color: darkblue
+            background-color: #22aa50;
+            color: black;
+        
+        }
+
+        .navbar {
+            background-color: #e3ffe5;
+            padding: 10px 20px;
+            display: flex;
+            align-items:left;
+        }
+
+        .home-button {
+            text-decoration: none;
+            background-color: #e3ffe5;
+            color: black;
+            padding: 10px 20px;
+            border-radius: 0px;
+            font-size: 16px;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        .home-button:hover {
+            background-color: #ffeb9a;
+            color: black;
+        }
+        .other-button {
+            text-decoration: none;
+            background-color: #e3ffe5;
+            color: black;
+            padding: 10px 20px;
+            border-radius: 0px;
+            font-size: 16px;
+            font-weight: normal;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .other-button:hover {
+            background-color: #ffeb9a;
+            color: black;
         }
     </style>
 </head>
 <body>
+    <div class="navbar">
+        <a href="index.html" class="home-button">Home</a>
+        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/studyguides.html/" class="other-button" target="_blank">Study Guides</a>
+    </div>
     <header>
     <h1>Leo's Study Guides</h1>
     </header>
     <main>
         <p>Leo's Study Guides is a website made by middle schooler Leo. It focuses on mainly his class studies, and he has made this website open for his classmates.</p>
-        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/readme/" class="button" target="_blank">Study Guides</a>
+        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/studyguides.html/" class="button" target="_blank">Study Guides</a>
     </main>
 
     <footer>

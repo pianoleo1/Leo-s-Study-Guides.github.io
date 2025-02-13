@@ -1,7 +1,3 @@
----
-title: README
-permalink: /readme/
----
 
 Hello! Welcome to Leo's Study Guides!
 
