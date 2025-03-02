@@ -68,4 +68,4 @@ If two figures are similar, then the ratio of their areas equals the square of t
 
 10. What is the formula for finding the number of diagonals in an  n -sided polygon?
 
-[Answer Key](anskey.md)
+[Answer Key](anskey.html)
