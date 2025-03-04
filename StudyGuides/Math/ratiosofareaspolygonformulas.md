@@ -16,11 +16,19 @@ nonagon | 9 | 1260 | 360 | 27
 decagon | 10 | 1440 | 360 | 35
 $n$-gon | $n$ | $(n-2)180$ | 360 | $\frac{n(n-3)}{2}$
 
+**Regular Polygons (Equiangluler and Equilateral)**
+
+Measure of one interior angle = $\frac{(n-2)180}{n}$
+
 # Ratios of Areas
 
 Triangles with the same height will have their area ratio be the ratio of their bases.
 
 If two figures are similar, then the ratio of their areas equals the square of the ratio of corresponding segments.
+
+# Misc. 
+
+![Exterior Angles Theorem](extanglestheorem.png)
 
 # Mini Quiz
 
