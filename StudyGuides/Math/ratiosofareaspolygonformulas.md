@@ -20,8 +20,7 @@ $n$-gon | $n$ | $(n-2)180$ | 360 | $\frac{n(n-3)}{2}$
 
 Measure of one interior angle = $\frac{(n-2)180}{n}$
 
-# Ratios of Areas
-
+# Ratios of Areas ([GeoEC Answer Key](https://classroom.google.com/c/NzAzOTgxNjIwNDU2/m/NzU1NDM1MjIyNTY2/details))
 Triangles with the same height will have their area ratio be the ratio of their bases.
 
 If two figures are similar, then the ratio of their areas equals the square of the ratio of corresponding segments.
