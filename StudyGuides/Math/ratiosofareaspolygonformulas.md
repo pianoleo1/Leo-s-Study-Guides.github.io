@@ -25,6 +25,8 @@ Triangles with the same height will have their area ratio be the ratio of their 
 
 If two figures are similar, then the ratio of their areas equals the square of the ratio of corresponding segments.
 
+[Proving that the quad. formed by connecting midpoints of another quad. has an area that is half the bigger quad.](PROVING.pdf)
+
 # Misc. 
 
 ![Exterior Angles Theorem](extanglestheorem.png)
