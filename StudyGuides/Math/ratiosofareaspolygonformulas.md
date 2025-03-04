@@ -19,7 +19,45 @@ $n$-gon | $n$ | $(n-2)180$ | 360 | $\frac{n(n-3)}{2}$
 **Regular Polygons (Equiangluler and Equilateral)**
 
 Measure of one interior angle = $\frac{(n-2)180}{n}$
+# Polygon Names
 
+# List of Polygon Names
+
+Here’s a list of polygon names based on the number of sides:  
+
+| **Number of Sides** | **Polygon Name** |
+|------------------|----------------|
+| 3  | Triangle |
+| 4  | Quadrilateral |
+| 5  | Pentagon |
+| 6  | Hexagon |
+| 7  | Heptagon |
+| 8  | Octagon |
+| 9  | Nonagon |
+| 10 | Decagon |
+| 11 | Hendecagon (or Undecagon) |
+| 12 | Dodecagon |
+| 13 | Tridecagon |
+| 14 | Tetradecagon |
+| 15 | Pentadecagon |
+| 16 | Hexadecagon |
+| 17 | Heptadecagon |
+| 18 | Octadecagon |
+| 19 | Enneadecagon (or Nonadecagon) |
+| 20 | Icosagon |
+| 30 | Triacontagon |
+| 40 | Tetracontagon |
+| 50 | Pentacontagon |
+| 60 | Hexacontagon |
+| 70 | Heptacontagon |
+| 80 | Octacontagon |
+| 90 | Enneacontagon |
+| 100 | Hectogon (or Centagon) |
+| 1,000 | Chiliagon |
+| 10,000 | Myriagon |
+| $n$ | $n$-gon |
+
+For larger numbers, you can use **\(n\)-gon** notation, like a **17-gon** for a 17-sided polygon.
 # Ratios of Areas ([GeoEC Answer Key](https://classroom.google.com/c/NzAzOTgxNjIwNDU2/m/NzU1NDM1MjIyNTY2/details))
 Triangles with the same height will have their area ratio be the ratio of their bases.
 
