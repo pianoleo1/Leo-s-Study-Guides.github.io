@@ -171,3 +171,5 @@ title: Washington's_Presidency
 78. **Britain and Spain** interfered in the Northwest Territory.
 
 79. The Battle of Fallen Timbers and Treaty of Greenville **opened vast regions for American settlement**.
+
+80. Washington **selected capable advisors and encouraged debate among them**.
