@@ -104,7 +104,7 @@ title: Washington's_Presidency
 
 ### Thomas Jefferson and Democratic-Republicans
 
-58. Thomas Jefferson **learned Greek and Latin before entering colleg**e at age 16.
+47. Thomas Jefferson **learned Greek and Latin before entering colleg**e at age 16.
 
 59. Jefferson believed that **informed citizens could make good decisions for themselves**.
 
@@ -142,7 +142,7 @@ title: Washington's_Presidency
 
 ### Washington's presidency: Precedents, WEstern Expansion, and Leadership.
 
-76. George Washington was called the "American Cincinnatus" because **he voluntarily gave up power and returned to civilian life**.
+65. George Washington was called the "American Cincinnatus" because **he voluntarily gave up power and returned to civilian life**.
 
 77. In St. Clair's Defeat in 1791, **over 600 American soldiers were killed**.
 
@@ -158,4 +158,4 @@ title: Washington's_Presidency
 
 83. Washington supported **neutrality in foreign affairs**.
 
-84. 
+73. 
