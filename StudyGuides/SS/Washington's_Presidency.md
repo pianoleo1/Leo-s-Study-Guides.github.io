@@ -158,4 +158,16 @@ title: Washington's_Presidency
 
 83. Washington supported **neutrality in foreign affairs**.
 
-73. 
+73. Washington gave the warning that **political parties would divide the nation and weaken it** during his Farewell Address.
+
+74. Washington told the nation to **avoid permanent alliances with foreign nations** in his Farewell Address.
+
+75. Washington wanted to be called **Mr. President**.
+
+76. Washington **submitted foreign treaties to the Senate** for approval.
+
+77. Washington served **two terms, then retired**, setting a precedent.
+
+78. **Britain and Spain** interfered in the Northwest Territory.
+
+79. The Battle of Fallen Timbers and Treaty of Greenville **opened vast regions for American settlement**.
