@@ -52,7 +52,7 @@ title: Washington's_Presidency
 
 21. **Local leaders sponsored him** to get to America.
 
-33. Hamilton held the position of **Aide-de-camp** under Washington during the American Revolution.
+22. Hamilton held the position of **Aide-de-camp** under Washington during the American Revolution.
 
 34. Hamilton married **Elizabeth Schuyler**.
 
@@ -101,3 +101,61 @@ title: Washington's_Presidency
 56. The main Southern objection to Hamilton's debt plan was the fact that **they have already paid their debts**.
 
 57. The Bank of the United States was established in **1791**.
+
+### Thomas Jefferson and Democratic-Republicans
+
+58. Thomas Jefferson **learned Greek and Latin before entering colleg**e at age 16.
+
+59. Jefferson believed that **informed citizens could make good decisions for themselves**.
+
+60. Jefferson believed that farmers were **"the chosen people of God"**.
+
+61. Democratic-Republicans advocated for **strict interpretation** of the Constitution.
+
+62. Jefferson believed that the national ank was **unconstitutional and against farmers' interests**.
+
+63. Citizen Genêt's mission in America was **to convince Americans to join France in a war against Britain**.
+
+64. President Washington responded to the Genêt with **cool and dignified restraint**.
+
+65. Jefferson turned against the Genêt because of his disrespectful behavior toward President Washington.
+
+66. Jefferson was a **Virginia tobacco planter** before entering politics.
+
+67. Democratic-Republicans viewed democracy as **strongly favored over other forms**.
+
+68. Democratic-Republican newspapers gave the term **British bootlickes** to Federalists in their newspapers.
+
+69. Jefferson lacked the skill of **making stirring speeches** as a politician.
+
+70. Jefferson thouht that the **best government governed least**.
+
+71. The Democratic-Republicans saw the French Revolution's violence as **necessary for achieving freedom**.
+
+72. Jefferson maintained a hobby of **playing the violin** throughout his life.
+
+73. According to Jefferson, **Farmers** would likely make better decisions.
+
+74. The Deocratic-Republicans viewed manufacturing and business as **opposing measures ecouraging business growth.
+
+75. The Democratic-Republicans' primary economic focus was **agriculture**.
+
+### Washington's presidency: Precedents, WEstern Expansion, and Leadership.
+
+76. George Washington was called the "American Cincinnatus" because **he voluntarily gave up power and returned to civilian life**.
+
+77. In St. Clair's Defeat in 1791, **over 600 American soldiers were killed**.
+
+78. Washington chose to wear a **plain brown American-made wool suit**.
+
+79. **Little Turtle** led Native American forces to victory over St. Clair.
+
+80. The constitutional requirements that is for treason convictions is that **two witnesses has to prove to the same overt act**.
+
+81. Native Americans surrendered **most of present-day Ohio** in the Treaty of Greenville.
+
+82. Washington **led troops personally, then pardoned the rebels** during the Whiskey Rebellion.
+
+83. Washington supported **neutrality in foreign affairs**.
+
+84. 
