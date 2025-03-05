@@ -39,3 +39,61 @@
 17. The National Bank would help the government **collect taxes, print money, and make loans.**
 
 18. A **Yeoman** is an independent farmer.
+
+### Alexander Hamilton Reading
+
+19. Alexander Hamilton was born in **The West Indies**.
+
+20. **A description of a hurricane** first brought Hamilton to prominance.
+
+21. **Local leaders sponsored him** to get to America.
+
+33. Hamilton held the position of **Aide-de-camp** under Washington during the American Revolution.
+
+34. Hamilton married **Elizabeth Schuyler**.
+
+35. Hamilton was initially a **poor immigrant** in America.
+
+36. Hamilton viewed human nature as **primarily self-interested**.
+
+37. According to Federalists, **educated and wealthy men** should govern the country.
+
+38. Federalists thought that **national power was more important**.
+
+39. Hamilton wanted to develop a **strong and diverse** economy.
+
+40. The main basis of the U.S. economy in 1790 was **agriculture**.
+
+41. Hamilton proposed the **assumption of state debts** to Congress in 1790.
+
+42. Hamilton proposed a **national bank**.
+
+43. Hamilton interpreted the Constitution as **loose construction**.
+
+44. Hamilton used the **Elastic Clause** to justify the national bank.
+
+45. The primary purpose of Hamilton's national bank was to collect taxes and provide stable currency.
+
+46. Hamilton planed to use federal government power to strengthen the economy.
+
+47. Hamilton initially viewed the French Revolution with hopeful optimism.
+
+48. Hamilton ultimately favored **Great Britain**.
+
+49. Hamilton admired Great Britain because of **its power and stability**.
+
+50. Hamilton rose to prominence with **ability and ambition**.
+
+51. Hamilton wanted **strong federal power**.
+
+52. Hamilton wanted **responsible debt management** on governmnet finances.
+
+53. Hamilton got his plan passed with **compromise on capital location**.
+
+54. The capital was located in **the Potomac River region** as part of Hamilton's compromise.
+
+55. Southern states initially **opposed** Hamilton's debt plan.
+
+56. The main Southern objection to Hamilton's debt plan was the fact that **they have already paid their debts**.
+
+57. The Bank of the United States was established in **1791**.
