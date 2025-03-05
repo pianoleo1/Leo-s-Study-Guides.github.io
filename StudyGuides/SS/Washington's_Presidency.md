@@ -1,3 +1,7 @@
+---
+title: Washington's_Presidency
+---
+
 # Washington's Presidency Test Thursday
 
 ## Google Form Study Guides
