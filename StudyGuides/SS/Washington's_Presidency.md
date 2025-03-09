@@ -2,11 +2,7 @@
 title: Washington's_Presidency
 ---
 
-# Washington's Presidency Test Thursday
-
-## Google Form Study Guides
-
-### Hamilton/Jefferson Review
+# Washington's Presidency Test 
 
 1. **Hamilton** believed that the "best people" should run the country.
 
@@ -43,8 +39,6 @@ title: Washington's_Presidency
 17. The National Bank would help the government **collect taxes, print money, and make loans.**
 
 18. A **Yeoman** is an independent farmer.
-
-### Alexander Hamilton Reading
 
 19. Alexander Hamilton was born in **The West Indies**.
 
@@ -102,8 +96,6 @@ title: Washington's_Presidency
 
 57. The Bank of the United States was established in **1791**.
 
-### Thomas Jefferson and Democratic-Republicans
-
 47. Thomas Jefferson **learned Greek and Latin before entering colleg**e at age 16.
 
 59. Jefferson believed that **informed citizens could make good decisions for themselves**.
@@ -139,8 +131,6 @@ title: Washington's_Presidency
 74. The Deocratic-Republicans viewed manufacturing and business as **opposing measures ecouraging business growth.
 
 75. The Democratic-Republicans' primary economic focus was **agriculture**.
-
-### Washington's presidency: Precedents, WEstern Expansion, and Leadership.
 
 65. George Washington was called the "American Cincinnatus" because **he voluntarily gave up power and returned to civilian life**.
 
