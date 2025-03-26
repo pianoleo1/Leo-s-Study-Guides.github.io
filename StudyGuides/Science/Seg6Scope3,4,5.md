@@ -61,46 +61,58 @@ Hotter, shorter wavelength | colder, longer wavelength.
 
 
 
-**Visible light**: The range of wavelengths of electromagnetic radiation that our eyes can detect.
+17. **Visible light**: The range of wavelengths of electromagnetic radiation that our eyes can detect.
 
-**Spectrum**: The band of colors produced when light is seperated into its component wavelengths.
+18. **Spectrum**: The band of colors produced when light is seperated into its component wavelengths.
 
-**Transmit**: To pass through a medium.
+19. **Transmit**: To pass through a medium.
 
-**Refract**: to bend or change direction of a wave.
+20. **Refract**: to bend or change direction of a wave.
 
-**Reflect**: To bounce back.
+21. **Reflect**: To bounce back.
 
-Visible light is only a small portion of the entire electromagnetic scale.
+22. Visible light is only a small portion of the entire electromagnetic scale.
 
-In a vacuum, all electromagnetic waves travel at 300,000,000m/s.
+23. In a vacuum, all electromagnetic waves travel at 300,000,000m/s.
 
-Different wavelengths of visible light ranges from 400-700nm.
+24. Different wavelengths of visible light ranges from 400-700nm.
 
-**Dispertion** is the seperation of white color to various colors.
+25. **Dispertion** is the seperation of white color to various colors.
 
-When electromagnetic waves encounter different media, they go through **reflection, scattering, refraction, dispersion, absorbtion, diffraction, and transmittion**.
+26. When electromagnetic waves encounter different media, they go through **reflection, scattering, refraction, dispersion, absorbtion, diffraction, and transmittion**.
 
-Shiny surfaces **reflect** back virtual images, dull surfaces **scatter** light, white **reflects** all light, black **absorbs** all light, red **reflects** only red light.
+27. Shiny surfaces **reflect** back virtual images, dull surfaces **scatter** light, white **reflects** all light, black **absorbs** all light, red **reflects** only red light.
 
-**Absorption** occurs when all or some of the light energy from light waves are transferred from one medium to another.
+28. **Absorption** occurs when all or some of the light energy from light waves are transferred from one medium to another.
 
-In **reflection**, a wave's direction changes, but speed doesn't change.
+29. In **reflection**, a wave's direction changes, but speed doesn't change.
 
-In **transparent** objects, all light can pass through. In **translucent** objects, some light can pass through. In **opaque** objects, light can't pass through at all.
+30. In **transparent** objects, all light can pass through. In **translucent** objects, some light can pass through. In **opaque** objects, light can't pass through at all.
 
-A change of speed causes the wave to bend when it hits a boundary.
+31. A change of speed causes the wave to bend when it hits a boundary.
 
-**Refraction** happens when particles in front slows down and the others are still traveling at the same speed.
+32. **Refraction** happens when particles in front slows down and the others are still traveling at the same speed.
 
-**Refraction** has many uses, including concave and convex lenses.
+33. **Refraction** has many uses, including concave and convex lenses.
 
-**Diffraction** is when waves hit a narrow slit and spreads out.
+34. **Diffraction** is when waves hit a narrow slit and spreads out.
 
 ### Reading Science A
 
+35. The ray of light traveling towards the mirrorr is called the **incident** ray.
+
+36. **Convex** mirrors show squashed, right side up, and smaller images. 
+
+37. A **concave** mirror, on the other hand, will make objects tall and thin and can be right-side up or upside down.
+
+38. Side-view mirrors in cars are convex because they always show the image right side up.
+
+39. The rearview mirror in cars are flat because it is used to judge actual distance of traffic behind you.
+
+40. **A still lake** would make a good mirror.
 
 ## Scope 4
+
 ### Packet
 
 ### Notes
