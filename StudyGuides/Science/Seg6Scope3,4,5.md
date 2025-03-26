@@ -42,10 +42,10 @@ Color | Frequency | Wavelength | Energy
 12. A prism **disperses** white light.
 
 13. 
-![visible light spectrum](https://t4.ftcdn.net/jpg/05/93/49/75/360_F_593497565_LKu9FlOUUnSluEKQtN78NrNqBqPwNimf.jpg)
+
 Violet | Red
 --- | ---
-Hotter, shorter wavelength | colder, longer wavelength.
+Hotter, shorter wavelength. | colder, longer wavelength.
 
 
 
