@@ -115,7 +115,59 @@ Hotter, shorter wavelength | colder, longer wavelength.
 
 ### Packet
 
+41. Sunlight is an electromagnetic wave that does not need a medium to travel through, sound does.
+
+42. As white light gets diffracted by water droplets, a rainbow appears.
+
+43. When an object is seen as a color, it is absorbing all light except that color (reflecting the color).
+
+44. **Visible light** is the area of the electromagnetic wave scale that is visible to the human eye.
+
+45. Higher frequency = less refraction (inverse relationship).
+
+    Light concepts | Explanation with example
+    --- | ---
+46. **Light waves** | Electromagnetic waves, like light from the sun
+
+47. **Color of light** | Part of the electromagnetic wave spectrum that is visible to the eye (ex. a rainbow).
+
+48. **Brightness of light** | The amplitude of the light wave (ex. putting waxed paper vs. glass in front of a flashlight).
+
+49. **Refraction** | Bending of light (ex. when a pencil is put in water).
+
+50. **Reflection** | Light bouncing off an object (ex. looking into a mirror).
+
+51. **Diffraction** | Light spreading out from one thin source (ex. a small slit in the door lets light into the whole room)
+
+52. Frequency and amplitude are **not related**.
+
+53. The higher the frequency, the shorter the wavelength (**inverse relationship**).
+
+54. Amplitude and energy have **direct relationship**.
+
+55. Wavelength = Speed / Frequency
+
 ### Notes
+
+56. Electromagnetic waves don't need a medium to travel.
+
+57. The qualities of light includes color and brightness.
+
+58. Refraction is used in corrective lenses to help see more clearly.
+
+59. When light is reflected off a mirror, we can see ourselves.
+
+60. Light can be modeled as **protons** or **waves**.
+
+61. Models of particles or waves can have different uses.
+
+62. If light is not absorbed by an object, it is either reflected or transmitted.
+
+63. Electromagnetic radiations have properties that can be models.
+
+64. **Color**: Specific frequency or wavelength of visible light.
+
+65. **Brightness**: The amplitude or height of a wave measured from the crest to midway between the crest and trough.
 
 ### Reading Science A
 
