@@ -35,9 +35,31 @@ Color | Frequency | Wavelength | Energy
 
 9. Wavelength and frequency have an **inverse relationship**.
 
+10. Light reflects differently with each material.
+
+11. If we can see an object, there is light reflecting off it.
+
+12. A prism **disperses** white light.
+
+13. 
+![visible light spectrum](https://t4.ftcdn.net/jpg/05/93/49/75/360_F_593497565_LKu9FlOUUnSluEKQtN78NrNqBqPwNimf.jpg)
+Violet | Red
+--- | ---
+Hotter, shorter wavelength | colder, longer wavelength.
+
+
+
+14. The higher the temperature, the shorter the wavelength.
+
+15. Blue, Indigo, violet stars have a **shorter wavelength** and are **hotter** than the sun.
+
+16. Orange and red stars have a **longer wavelength** and are colder than the sun.
+
 ### Notes
 ![Properties of visible light](image.png)
 ![Properties of visible light 2](image-2.png)
+
+
 
 **Visible light**: The range of wavelengths of electromagnetic radiation that our eyes can detect.
 
@@ -76,6 +98,7 @@ A change of speed causes the wave to bend when it hits a boundary.
 **Diffraction** is when waves hit a narrow slit and spreads out.
 
 ### Reading Science A
+
 
 ## Scope 4
 ### Packet
