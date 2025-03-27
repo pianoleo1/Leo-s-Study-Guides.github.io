@@ -116,67 +116,103 @@ Hotter, shorter wavelength. | colder, longer wavelength.
 
 40. **A still lake** would make a good mirror.
 
+### Concept Attainment Quiz
+
+41. **Visible light waves** is the portion of the electromagetic spectrum that humans can see.
+
+42. Energy waves are **reflected** when bounced off an object.
+
+43. The **electromagnetic spectrum** is all the possible energy levels of electromagnetic radiation.
+
+44. When an energy wave is soaked or taken in, it is **absorbed**.
+
+45. **Transmission** is light passing through an object.
+
+46. The color of an object that humans see is actually the **visible spectrum** of light reflected off the object.
+
+47. Light of different wavelengths looks like different **colors** to humans.
+
+48. The electromagnetic spectrum contains a **wide range** of light waves. Some of the waves are visible to humans and some of them cannot be seen by humans.
+
+49. When a rainbow appears in the sky, it is because light from the **visible spectrum** passed through water vapor and **slowed** down, causing the colors in the visible spectrum to break apart.
+
+50. Light travels in a straight line except at surfaces between different transparent materials (e.g., air and water, air and glass) where the light path bends.
+
+51. The electromagnetic spectrum is all of the electromagnetic wavelengths, including radio waves, x-rays, ultraviolet, infrared, and the visible spectrum. The human eye can only pick up a certain set of wavelengths of light; this is what is known as the visible spectrum. Different wavelengths within the visible spectrum are the different colors we see. The visible spectrum is only a small part of the electromagnetic spectrum.
+
 ## Scope 4
 
 ### Packet
 
-41. Sunlight is an electromagnetic wave that does not need a medium to travel through, sound does.
+52.  Sunlight is an electromagnetic wave that does not need a medium to travel through, sound does.
 
-42. As white light gets diffracted by water droplets, a rainbow appears.
+53. As white light gets diffracted by water droplets, a rainbow appears.
 
-43. When an object is seen as a color, it is absorbing all light except that color (reflecting the color).
+54. When an object is seen as a color, it is absorbing all light except that color (reflecting the color).
 
-44. **Visible light** is the area of the electromagnetic wave scale that is visible to the human eye.
+55. **Visible light** is the area of the electromagnetic wave scale that is visible to the human eye.
 
-45. Higher frequency = less refraction (inverse relationship).
+56. Higher frequency = less refraction (inverse relationship).
 
     Light concepts | Explanation with example
     --- | ---
-46. **Light waves** | Electromagnetic waves, like light from the sun
+57. **Light waves** | Electromagnetic waves, like light from the sun
 
-47. **Color of light** | Part of the electromagnetic wave spectrum that is visible to the eye (ex. a rainbow).
+58. **Color of light** | Part of the electromagnetic wave spectrum that is visible to the eye (ex. a rainbow).
 
-48. **Brightness of light** | The amplitude of the light wave (ex. putting waxed paper vs. glass in front of a flashlight).
+59. **Brightness of light** | The amplitude of the light wave (ex. putting waxed paper vs. glass in front of a flashlight).
 
-49. **Refraction** | Bending of light (ex. when a pencil is put in water).
+60. **Refraction** | Bending of light (ex. when a pencil is put in water).
 
-50. **Reflection** | Light bouncing off an object (ex. looking into a mirror).
+61. **Reflection** | Light bouncing off an object (ex. looking into a mirror).
 
-51. **Diffraction** | Light spreading out from one thin source (ex. a small slit in the door lets light into the whole room)
+62. **Diffraction** | Light spreading out from one thin source (ex. a small slit in the door lets light into the whole room).
 
-52. Frequency and amplitude are **not related**.
+63. Frequency and amplitude are **not related**.
 
-53. The higher the frequency, the shorter the wavelength (**inverse relationship**).
+64. The higher the frequency, the shorter the wavelength (**inverse relationship**).
 
-54. Amplitude and energy have **direct relationship**.
+65. Amplitude and energy have **direct relationship**.
 
-55. Wavelength = Speed / Frequency
+66. Wavelength = Speed / Frequency
+
+67. **Reflection** | Light bouncing off an object (ex. looking into a mirror).
+
+68. **Diffraction** | Light spreading out from one thin source (ex. a small slit in the door lets light into the whole room)
+
+69. Frequency and amplitude are **not related**.
+
+70. The higher the frequency, the shorter the wavelength (**inverse relationship**).
+
+71. Amplitude and energy have **direct relationship**.
+
+72. Wavelength = Speed / Frequency
 
 ### Notes
 
-56. Electromagnetic waves don't need a medium to travel.
+73. Electromagnetic waves don't need a medium to travel.
 
-57. The qualities of light includes color and brightness.
+74. The qualities of light includes color and brightness.
 
-58. Refraction is used in corrective lenses to help see more clearly.
+75. Refraction is used in corrective lenses to help see more clearly.
 
-59. When light is reflected off a mirror, we can see ourselves.
+76. When light is reflected off a mirror, we can see ourselves.
 
-60. Light can be modeled as **protons** or **waves**.
+77. Light can be modeled as **protons** or **waves**.
 
-61. Models of particles or waves can have different uses.
+78. Models of particles or waves can have different uses.
 
-62. If light is not absorbed by an object, it is either reflected or transmitted.
+79. If light is not absorbed by an object, it is either reflected or transmitted.
 
-63. Electromagnetic radiations have properties that can be models.
+80. Electromagnetic radiations have properties that can be models.
 
-64. **Color**: Specific frequency or wavelength of visible light.
+81. **Color**: Specific frequency or wavelength of visible light.
 
-65. **Brightness**: The amplitude or height of a wave measured from the crest to midway between the crest and trough.
+82. **Brightness**: The amplitude or height of a wave measured from the crest to midway between the crest and trough.
 
 ### Reading Science A
 
-66. **Both ultraviolet light and microwaves**:
+83. **Both ultraviolet light and microwaves**:
     
     a. Cannot be seen by the human eye.
     
@@ -184,11 +220,35 @@ Hotter, shorter wavelength. | colder, longer wavelength.
 
     c. Both are types of radiation emitted by the sun.
 
-67. The best wavelength to use if an astronomer wants to study the composition of planets and stars is **radio waves**.
+84. The best wavelength to use if an astronomer wants to study the composition of planets and stars is **radio waves**.
 
-68. Radio waves:longest wavelength::**gamma rays**:shortest wavelength.
+85. Radio waves:longest wavelength::**gamma rays**:shortest wavelength.
 
-69. **Ultraviolet** light has a wavelength of 10^-8 m.
+86. **Ultraviolet** light has a wavelength of 10^-8 m.
+
+### Concept Attainment Quiz
+
+87. **Absorption** is the ability to take in light and different waves of energy.
+
+88. **Reflection** is the ability to throw back or bounce back, but not absorb, light and different waves of energy.
+
+89. The **electromagnetic spectrum** is a grouping of all possible energy levels of electromagnetic radiation.
+
+90. **Refraction or scattering** is when an energy wave bends as it passes from object to object.
+
+91. **Transmission** is light passing through an object.
+
+92. A **wave** model of light is useful for explaining brightness.
+
+93. Because light can travel through space, it cannot be a **matter** wave.
+
+94. When light passes through a **medium** like water, it will bend.
+
+95. Black cars **absorb** more light waves than white cars, which causes them to heat up more than white cars.
+
+96. A wave model of light is useful for explaining **brightness, color, and the frequency-dependent bending of light at a surface between media**.
+
+97. As the light passes through the different material (the plastic water bottle and the water in the bottle), the speed of the light carrying the letters to your brain varies, causing the light rays to **refract** (bend at larger angles), effectively making the water bottle an **optical lens** (magnifying glass).
 
 ## Scope 5
 
