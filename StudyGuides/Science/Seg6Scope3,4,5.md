@@ -252,8 +252,6 @@ Hotter, shorter wavelength. | colder, longer wavelength.
 
 ## Scope 5
 
-### Packet
+98. A signal is quantities that can represent and convey messages used by devices to send and receive info.
 
-### Notes
-
-### Reading Science A
+99. **Analog signals** converts info to amplitude and frequency, and records exact waveform. **Digital signals** are binary, and are a sampling of data.
