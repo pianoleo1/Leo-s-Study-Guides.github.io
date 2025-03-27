@@ -4,6 +4,11 @@ title: Seg6Scope3,4,5.md
 
 # Segment 6, Scope 3, 4, and 5 Study Guide
 
+[Reading Science A (Scope 3)](Reading_Science_A_Scope_3.pdf)
+
+[Reading Science A (Scope 4)](Reading_Science_A_Scope_4.pdf)
+
+Reading Science A (Scope 5) Not out yet
 ## Scope 3
 
 ### Packet
@@ -170,6 +175,20 @@ Hotter, shorter wavelength. | colder, longer wavelength.
 65. **Brightness**: The amplitude or height of a wave measured from the crest to midway between the crest and trough.
 
 ### Reading Science A
+
+66. **Both ultraviolet light and microwaves**:
+    
+    a. Cannot be seen by the human eye.
+    
+    b. Used by scientists to study the structure of galaxies.
+
+    c. Both are types of radiation emitted by the sun.
+
+67. The best wavelength to use if an astronomer wants to study the composition of planets and stars is **radio waves**.
+
+68. Radio waves:longest wavelength::**gamma rays**:shortest wavelength.
+
+69. **Ultraviolet** light has a wavelength of 10^-8 m.
 
 ## Scope 5
 
