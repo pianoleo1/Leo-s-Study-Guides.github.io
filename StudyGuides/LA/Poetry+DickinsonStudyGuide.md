@@ -6,9 +6,6 @@ title: Poetry+DickinsonStudyGuide
 
 ## Poetry Terms
 
-![studyguide1](image.png)
-![studyguide2](image-1.png)
-
 Poem form | Syllables | Rhyme scheme | Meter | Purpose | Special requirements
 --- | --- | --- | --- | --- | ---
 **Haiku** | 5, 7, 5 | - | - | - | Juxtaposition in the last line; form and figurative language
