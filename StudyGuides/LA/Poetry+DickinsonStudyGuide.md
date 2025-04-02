@@ -64,4 +64,24 @@ Symbol | Object or action that has special meaning.
 Parody | Mocking of a serious piece.
 Pastoral | A rural place with a natural setting.
 
-## Emily Dickinson (coming soon!)
+## Emily Dickinson
+
+Emily Elizabeth Dickinson: **Birth**: 1830; **Death**: 1886.
+
+Her un-affectionate mother might have caused some of her eccentricity.
+
+Everyone knows her strict father.
+
+**Puritanical**: A belief where every decision leads to heaven.
+
+Emily was shy and reserved during college.
+
+She attended Amherst Academy and South Hadley Female Seminary (Mount Holyoke College).
+
+In 1848, she began her life of **seclusion**.
+
+Emily wrote nearly **2,000** poems.
+
+Editors sorted her poems into **Friends, Nature, Love, and Death**.
+
+**Study your "Poetry for Study" poems!!**
