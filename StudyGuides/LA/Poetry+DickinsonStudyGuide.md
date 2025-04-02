@@ -11,9 +11,9 @@ Poem form | Syllables | Rhyme scheme | Meter | Purpose | Special requirements
 **Haiku** | 5, 7, 5 | - | - | - | Juxtaposition in the last line; form and figurative language
 **Limerick** | 9, 9, 6, 6, 9 | AABBA | Anapestic trimeter | Funny | Form and rhyme
 **Concrete** | - | - | - | - | Shape with words
-**Sonnet** | - | abab/cdcd/efef/gg | iambic pentameter | - | Fourteen lines; form, rhyme, meter
-**Ballad** | - | abab or abcb | - | Entertaining story | Each stanza has four lines
-**Ode** | - | - | - | Serious topic | -
+**Sonnet** | - | abab/cdcd/efef/gg | Iambic pentameter | - | Fourteen lines; form, rhyme, meter
+**Ballad** | - | abab or abcb | - | Entertaining story | Each stanza has four lines; 1st & 3rd lines have four / syllables, 2nd & 4th have three / syllables
+**Ode** | - | ababcdecde | - | Serious topic | Has ten lines in a stanza; more than one stanza with same meter and rhyming scheme; Every line rhymes with at least one other line in a stanza.
 **Conceit** | - | - | - | - | Extended metaphor
 **Open Form** | - | - | - | - | -
 **Allegory** | - | - | - | Teaches a moral | -
