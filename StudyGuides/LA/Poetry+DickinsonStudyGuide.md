@@ -25,7 +25,9 @@ Consonance | Repeated consonant sounds at middle or ends of words.
 Assonance | Repeated vowel sounds in middle of words.
 End rhyme | Last words of two or more lines rhyme.
 Rhyme scheme | "Code' that we use to describe rhyme.
+
 ---
+
 **Foot**:
 
 Foot | Stresses
@@ -37,6 +39,7 @@ Spondee | / /
 Trochee | / u
 
 ---
+
 **Meter**:
 
 Meter | Feet
