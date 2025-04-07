@@ -11,7 +11,7 @@ title: Grammar Study Guide
 xxx | **Action verb** | **Helping verb** | **Linking verb**
 --- | --- | --- | --- 
 **Definition** | Shows Action | Helps the action verb | Links the subject to a description of the subject (predicate adjective/predicate nominative)
-**Example** | The dog has <u>**eaten**</u> his dinner, and he <u>**wants**</u> a nap. | Tommy <u>**is**</u> eating a pizza. | The tree <u>**is**</u> green.
+**Example** | The dog has **<u>eaten</u>** his dinner, and he **<u>wants</u>** a nap. | Tommy **<u>is</u>** eating a pizza. | The tree **<u>is</u>** green.
 
 ---
 
@@ -20,7 +20,7 @@ xxx | **Action verb** | **Helping verb** | **Linking verb**
 Transitive | Intransitive
 --- | ---
 "Transfers" action to a direct object | Does not "transfer" action to a direct object
-Ex. Bob <u>**kicked**</u> a <span style="text-decoration: underline double;">ball</span>. | The rice <u>**flew**</u> over the fence.
+Ex. Bob **<u>kicked</u>** a <span style="text-decoration: underline double;">ball</span>. | The rice **<u>flew</u>** over the fence.
 
 ---
 
