@@ -34,3 +34,16 @@ jumped | was jumping | had jumped | jumps | is jumping | has jumped | will jump 
 ---
 
 # 6.2: Verbs, Voice, and Mood
+
+## Active & Passive Sentences
+Active | Passive
+--- | ---
+Ex. Melanie sang the song. | Ex. The song was sung by Melanie.
+---
+
+## Verb Moods
+
+indicative | imperative | conditional | subjunctive | interrogative
+--- | --- | --- | --- | ---
+A statement of fact | A command | A conditional statement | A imaginary situation (weird grammar, missing "should") | A question
+Ex. I drank your soup last night | Make some butter for your brother! | I might make slight mistakes. | Bry's mother requested that her brother be treated fairly. | Will you come to the party tonight?
