@@ -8,7 +8,7 @@ title: Grammar Study Guide
 
 ## Verbs
 
-X | **Action verb** | **Helping verb** | **Linking verb** |
+xxx | **Action verb** | **Helping verb** | **Linking verb**
 --- | --- | --- | --- 
 **Definition** | Shows Action | Helps the action verb | Links the subject to a description of the subject (predicate adjective/predicate nominative)
 **Example** | The dog has <u>**eaten**</u> his dinner, and he <u>**wants**</u> a nap. | Tommy <u>**is**</u> eating a pizza. | The tree <u>**is**</u> green.
@@ -24,6 +24,7 @@ Ex. Bob <u>**kicked**</u> a <span style="text-decoration: underline double;">bal
 ---
 
 **Predicates**
+
 Predicate adjectives | Predicate nominatives
 --- | ---
 Adjectives in the predicate linked back to the subject. | Nouns or pronouns in the predicate that "renames" the subject.
