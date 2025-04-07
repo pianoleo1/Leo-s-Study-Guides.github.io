@@ -8,10 +8,18 @@ title: Study Guide: 3D Shapes, Circles, & Constructions
 
 - Views of 3D solids
 - Calculate volume/surface area/lateral area of solids.
-- Ratios of sides, areas, volumes problems. [Ratios of areas study guide](https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/StudyGuides/Math/ratiosofareaspolygonformulas.html)
+- Ratios of sides, areas, volumes problems.
 - Vocab —> “fill in the blanks” (SCROLL DOWN TO SEE VOCAB)
 - Constructions (how to construct an octagon?)
 - Prove pythagorean theorem
+
+**Ratios of similarity:** If a solid is enlarged proportionally by a scale factor of $u$:
+
+New edge length = $u$ $*$ original edge length.
+
+New surface area = $u^2$ $*$ original S.A.
+
+New volume = $u^3$ $*$ original volume.
 
 ## 3D Shapes
 
@@ -49,7 +57,8 @@ title: Study Guide: 3D Shapes, Circles, & Constructions
 
 Word | Meaning
 --- | ---
-centroid | A part of a triangle that is the intersection of all of its medians.
+median | A segment connecting the vertex of a triangle to the midpoint of the opposite side.
+centroid | The point of a triangle that is the intersection of all of its medians.
 concurrent | Three or more lines meeting at the same point.
 altitude | The height of a triangle.
 polyhedron | A closed, 3D solid that has flat, polygonal faces.
