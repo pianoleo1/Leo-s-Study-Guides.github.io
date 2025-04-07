@@ -15,7 +15,8 @@ xxx | **Action verb** | **Helping verb** | **Linking verb**
 
 ---
 
-**Action verbs**
+### Action verbs
+ 
 Transitive | Intransitive
 --- | ---
 "Transfers" action to a direct object | Does not "transfer" action to a direct object
@@ -23,8 +24,8 @@ Ex. Bob <u>**kicked**</u> a <span style="text-decoration: underline double;">bal
 
 ---
 
-**Predicates**
-
+### Predicates
+ 
 Predicate adjectives | Predicate nominatives
 --- | ---
 Adjectives in the predicate linked back to the subject. | Nouns or pronouns in the predicate that "renames" the subject.
