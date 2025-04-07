@@ -1,5 +1,5 @@
 ---
-title: GrammarLAWED
+title: Grammar Study Guide
 ---
 
 # Grammar Test (6.1 - 6.2) Study Guide
