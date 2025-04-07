@@ -2,28 +2,20 @@
 title: Study Guide: 3D Shapes, Circles, & Constructions
 ---
 
-# Study Guide: 3D Shapes, Circles, & Constructions
+# Study Guide: 3D Shapes & Constructions
+
+**Things to know for the test**:
+
+- Views of 3D solids
+- Calculate volume/surface area/lateral area of solids.
+- Ratios of sides, areas, volumes problems. [Ratios of areas study guide](https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/StudyGuides/Math/ratiosofareaspolygonformulas.html)
+- Vocab —> “fill in the blanks” (SCROLL DOWN TO SEE VOCAB)
+- Constructions (how to construct an octagon?)
+- Prove pythagorean theorem
 
 ## 3D Shapes
 
-## Circles
-
-Word | Meaning
---- | ---
-circle | A set of coplaner points equidistant from a fixed point called the center.
-radius | A line segment that stretches from the center of the circle to the circle.
-diameter | A line segment that stretches from one side of the circle to another and passes through the center.
-chord | A line segment that passes through two points on a circle.
-Sector | A part of a circle
-
----
-
-Central angle &ang;AOB = $m$&#8978;AB = $a$
-
-Inscribed angle &ang;AMB = $a/2$
-
-**Theorem**: If a quadrilateral has opposite angles that are supplementary, then the quadrilateral is cyclic (vertices are concyclic, quad. is inscribed in circle).
-
+![3D Shape Notes](MathSGNotes.jpg)
 
 ## Constructions
 
@@ -52,3 +44,15 @@ Inscribed angle &ang;AMB = $a/2$
 11. Construct a kite.
 
 12. Construct the **centroid** of a triangle.
+
+## Vocabulary
+
+Word | Meaning
+--- | ---
+centroid | A part of a triangle that is the intersection of all of its medians.
+concurrent | Three or more lines meeting at the same point.
+altitude | The height of a triangle.
+polyhedron | A closed, 3D solid that has flat, polygonal faces.
+polyhedra | Plural of polyhedron.
+Prism | A polyhedron with two congruent, parallel bases.
+Lateral faces | The faces of the prism without the bases.
