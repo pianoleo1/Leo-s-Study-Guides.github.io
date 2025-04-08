@@ -67,3 +67,55 @@ indicative | imperative | conditional | subjunctive | interrogative
 --- | --- | --- | --- | ---
 A statement of fact | A command | A conditional statement | A imaginary situation (weird grammar, missing "should") | A question
 Ex. I drank your soup last night | Make some butter for your brother! | I might make slight mistakes. | Bry's mother requested that her brother be treated fairly. | Will you come to the party tonight?
+
+# 7.1: Conjunctions
+
+Prepositions sometimes look like dependent clauses, like "before the storm". However, this is not a clause because it only has a subject.
+## Coordinating Conjunctions
+
+Conjunctions that join words, phrases, and independent clauses.
+
+|**F**|or
+
+|**A**|nd
+
+|**N**|or
+
+|**B**|ut
+
+|**O**|r
+
+|**Y**|et
+
+|**S**|o
+
+## Correlative Conjunctions
+
+Pairs of conjunctinos to link parts of sentences (nouns, noun phrases, prep phrases, etc.)
+
+## Subordinating Conjunctions
+
+Connects dependent clauses to independent clauses.
+
+## Types of sentences
+
+Type | Meaning
+--- | ---
+Simple | A sentence containing only one clause
+Compound | A sentence containing two independent clauses (**IC, + IC needs a comma**)
+Complex | **IC + DC or DC, + IC**
+Compound-Complex | A sentence with at least two independent clauses and at least one dependent clause.
+
+# 7.2: Conjunctions, Clauses, and Commas
+
+**Appositive phrases** need a comma (Ex. My daughter, a bright girl, went to kindergarten today.)
+
+**Consecutive adjectives** need a comma
+
+**Commas before "which"**needs a comma (except when "which" is an adjective)
+
+# Sentence Diagramming
+
+Subordinating Conjunctions deserve a "waterfall"
+
+Coordinating Conjunctions deserve a "chair"
