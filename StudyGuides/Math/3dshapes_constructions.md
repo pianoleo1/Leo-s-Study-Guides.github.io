@@ -2,6 +2,18 @@
 title: Study Guide: 3D Shapes, Circles, & Constructions
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0B2RL00V6Q"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-0B2RL00V6Q');
+</script>
+
+
+
 # Study Guide: 3D Shapes & Constructions
 
 **Things to know for the test**:
