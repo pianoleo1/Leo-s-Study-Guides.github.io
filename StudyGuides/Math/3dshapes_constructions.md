@@ -1,7 +1,6 @@
 ---
 title: Study Guide: 3D Shapes, Circles, & Constructions
 ---
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0B2RL00V6Q"></script>
 <script>
