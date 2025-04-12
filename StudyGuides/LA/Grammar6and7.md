@@ -11,7 +11,7 @@ title: Grammar Study Guide
     gtag('config', 'G-0B2RL00V6Q');
 </script>
 
-# Grammar Test (6.1 - 6.2) Study Guide
+# Grammar Test (6-7) Study Guide
 
 # 6.1: Verbs and Tenses
 
