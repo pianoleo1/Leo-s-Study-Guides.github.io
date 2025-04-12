@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0B2RL00V6Q"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0B2RL00V6Q');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leo's Study Guides</title>
+    <link rel="icon" href="favicon.ico">
+    <style>
+        h1 {
+            text-align: center;
+        }
+
+        main {
+            text-align: center;
+            font-size: 18px;
+            padding: 18px;
+            color: black;
+        }
+        
+        footer {
+            position: relative;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            color: black;
+            text-align: center;
+            padding: 10px;
+        }
+        
+        body {
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            background-image: url('https://i.pinimg.com/736x/8d/d9/b6/8dd9b6e70ab1a43414c7450b6fc0f044.jpg'); /* Path to your image */
+            background-size: cover; /* Ensures the image covers the entire screen */
+            background-position: center; /* Centers the image */
+            background-attachment: fixed; /* Makes the image fixed when scrolling */
+            height: 100vh; /* Ensures the background covers the entire height of the viewport */
+            margin: 0;
+        }
+
+        .button {
+            display: inline-block;
+            background-color: #e3ffe5;
+            color: black;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 20px;
+            font-size: 16px;
+            transition: 0.3s;
+            flex: 1; /* Allow buttons to take equal space */
+            margin: 5px; /* Add spacing between buttons */
+            text-align: center; /* Center text inside buttons */
+        }
+
+        .button:hover {
+            background-color: #22aa50;
+            color: black;
+        
+        }
+
+        .red_button {
+            display: inline-block;
+            background-color: rgb(255, 175, 175);
+            color: black;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 20px;
+            font-size: 16px;
+            transition: 0.3s;
+        }
+
+        .red_button:hover {
+            background-color: red;
+            color: black;
+        
+        }
+
+        .navbar {
+            
+            padding: 10px 20px;
+            display: flex;
+            align-items:left;
+        }
+
+        .navbar a {
+            color: black;
+            text-decoration: none;
+            padding: 14px 20px;
+            display: inline-block;
+        }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: white;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+            z-index: 1;
+            min-height: 160px;
+        }
+        
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .home-button {
+            text-decoration: none;
+            
+            color: black;
+            padding: 10px 20px;
+            border-radius: 0px;
+            font-size: 16px;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        .home-button:hover {
+            background-color: #ffeb9a;
+            color: black;
+        }
+        .other-button {
+            text-decoration: none;
+            
+            color: black;
+            padding: 10px 20px;
+            border-radius: 0px;
+            font-size: 16px;
+            font-weight: normal;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        
+        .other-button:hover {
+            background-color: #ffeb9a;
+            color: black;
+        }
+
+        .game-button {
+            text-decoration: none;
+            
+            color: #e3ffe5;
+            padding: 10px 20px;
+            border-radius: 0px;
+            font-size: 16px;
+            font-weight: normal;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        
+        .game-button:hover {
+            background-color: #ffeb9a;
+            color: black;
+        }
+
+        .study-guide-box {
+            border: 2px solid black;
+            padding: 20px;
+            margin: 20px auto;
+            display: flex;
+            justify-content: space-between; /* Align buttons to the left and right */
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 40px;
+            flex-wrap: wrap; /* Ensure buttons wrap on smaller screens */
+        }
+            
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Home/index.html" class="other-button">Home</a>
+        <div class="dropdown">
+            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/StudyGuides/index.html" class="other-button" >Study Guides ▼</a>
+            <div class="dropdown-content">
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/LA/index.html">LA</a>
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/SS/index.html">SS</a>
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Science/index.html">Science</a>
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Drama/index.html">Drama</a>
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Math/index.html">Math</a>
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/BegBand/index.html">BegBand</a>
+            </div>
+        </div>
+        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/index.html" class="home-button">Resources</a>
+    </div>
+    <header>
+    <h1>Resources</h1>
+    <hr>
+    <main>
+        <div class="study-guide-box">
+            <p>Empty now, will update soon!</p>
+        </div>
+    </header>
+    
+    <footer>
+        <p>Leo's Study Guides - Made by Leo</p>
+    </footer>
+
+</body>
+</html>
