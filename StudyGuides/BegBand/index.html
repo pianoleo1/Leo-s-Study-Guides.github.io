@@ -56,6 +56,9 @@
             font-size: 16px;
             transition: 0.3s;
             background-color: #e3ffe5;
+            flex: 1; /* Allow buttons to take equal space */
+            margin: 5px; /* Add spacing between buttons */
+            text-align: center; /* Center text inside buttons */
         }
 
         .button:hover {
@@ -159,6 +162,17 @@
             background-color: #ffeb9a;
             color: black;
         }
+
+        .study-guide-box {
+            border: 2px solid black;
+            padding: 20px;
+            margin: 20px auto;
+            display: flex;
+            justify-content: space-between; /* Align buttons to the left and right */
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 40px;
+            flex-wrap: wrap; /* Ensure buttons wrap on smaller screens */
+        }
             
     </style>
 </head>
@@ -176,18 +190,18 @@
                 <a href="/Leo-s-Study-Guides.github.io/StudyGuides/BegBand/index.html">BegBand</a>
             </div>
         </div>
-        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Games/index.html" class="game-button" color: #e3ffe5 >Games</a>
+        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/index.html" class="other-button">Resources</a>
     </div>
     <header>
     <h1>Study Guides</h1>
-    <hr>
     </header>
     <main>
         <h2 id="beginning-band-mr-arnold-s-lesson-plan-https-classroom-google-com-c-nza4otuwmjm4ntg3-">Beginning Band</h2>
         <a href="https://classroom.google.com/c/NzA4OTUwMjM4NTg3"class="button">Mr. Arnold&#39;s Lesson Plan</a>
         <!Band>
-        <p>-----</p>
-        </li><a href="/Leo-s-Study-Guides.github.io/StudyGuides/BegBand/WrittenTestStudyJan.html"  class="button">Written Test January Study Guide</a>
+        <div class="study-guide-box">
+            <a href="/Leo-s-Study-Guides.github.io/StudyGuides/BegBand/WrittenTestStudyJan.html"  class="button">Written Test January Study Guide</a>
+        </div>
     </main>
 
     <footer>
