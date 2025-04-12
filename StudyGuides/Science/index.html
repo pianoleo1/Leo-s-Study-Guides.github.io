@@ -55,6 +55,9 @@
             border-radius: 20px;
             font-size: 16px;
             transition: 0.3s;
+            flex: 1; /* Allow buttons to take equal space */
+            margin: 5px; /* Add spacing between buttons */
+            text-align: center; /* Center text inside buttons */
         }
 
         .button:hover {
@@ -157,6 +160,17 @@
             color: black;
         }
             
+        .study-guide-box {
+            border: 2px solid black;
+            padding: 20px;
+            margin: 20px auto;
+            display: flex;
+            justify-content: space-between; /* Align buttons to the left and right */
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 40px;
+            flex-wrap: wrap; /* Ensure buttons wrap on smaller screens */
+        }
+
     </style>
 </head>
 <body>
@@ -184,9 +198,11 @@
         <a href="https://classroom.google.com/c/NzAyMjIxNjczMzg4"class="button">Mrs. B&#39;s Lesson Plan</a>
         <p>-----</p>
         <!Science>
-        <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Science/Seg6Scope3,4,5.html" class="button">Segment 6, Scope 3, 4, 5</a>
-        <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Science/Seg6Scope1&2.html" class="button">Segment 6, Scope 1 and 2</a>
-        <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Science/Segment5Scope1and2.html" class="button">Segment 5, Scope 1 and 2</a> 
+        <div class="study-guide-box">
+            <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Science/Seg6Scope3,4,5.html" class="button">Segment 6, Scope 3, 4, 5</a>
+            <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Science/Seg6Scope1&2.html" class="button">Segment 6, Scope 1 and 2</a>
+            <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Science/Segment5Scope1and2.html" class="button">Segment 5, Scope 1 and 2</a> 
+        </div>
     </main>
 
     <footer>

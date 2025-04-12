@@ -56,6 +56,9 @@
             border-radius: 20px;
             font-size: 16px;
             transition: 0.3s;
+            flex: 1; /* Allow buttons to take equal space */
+            margin: 5px; /* Add spacing between buttons */
+            text-align: center; /* Center text inside buttons */
         }
 
         .button:hover {
@@ -157,7 +160,18 @@
             background-color: #ffeb9a;
             color: black;
         }
-            
+        
+        .study-guide-box {
+            border: 2px solid black;
+            padding: 20px;
+            margin: 20px auto;
+            display: flex;
+            justify-content: space-between; /* Align buttons to the left and right */
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 40px;
+            flex-wrap: wrap; /* Ensure buttons wrap on smaller screens */
+        }
+
     </style>
 </head>
 <body>
@@ -185,9 +199,11 @@
         <a href="https://docs.google.com/document/d/e/2PACX-1vT1gk9KErY1FvxmgiuXBwR_Kq1jhdxEZODHJeLxZchTZdeBRmof58P71ZAPkCVZ0cU7PtGgzQ7iVtGn/pub" class="button">Mr. Oncay&#39;s Lesson Plan</a>
         <!Drama>
         <p>-----</p>
-        <a href="https://www.quia.com/jg/2621206.html" class="button">Theater Vocab Games</a>
-        <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Drama/TheaterVocab.html" class="button">Theater Vocabulary</a>
-        <a href="https://docs.google.com/document/d/1ZWRzMKhZuLFahKfqQ7jhNMtsrHSCaCxS9ENxl6Mz4mM/edit?tab=t.0" class="button">Fairytale Skit Directions</a>
+        <div class="study-guide-box">
+            <a href="https://www.quia.com/jg/2621206.html" class="button">Theater Vocab Games</a>
+            <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Drama/TheaterVocab.html" class="button">Theater Vocabulary</a>
+            <a href="https://docs.google.com/document/d/1ZWRzMKhZuLFahKfqQ7jhNMtsrHSCaCxS9ENxl6Mz4mM/edit?tab=t.0" class="button">Fairytale Skit Directions</a>
+        </div>
     </main>
 
     <footer>

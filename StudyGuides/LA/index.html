@@ -56,6 +56,9 @@
             border-radius: 20px;
             font-size: 16px;
             transition: 0.3s;
+            flex: 1; /* Allow buttons to take equal space */
+            margin: 5px; /* Add spacing between buttons */
+            text-align: center; /* Center text inside buttons */
         }
 
         .button:hover {
@@ -178,6 +181,17 @@
             background-color: #ffeb9a;
             color: black;
         }
+
+        .study-guide-box {
+            border: 2px solid black;
+            padding: 20px;
+            margin: 20px auto;
+            display: flex;
+            justify-content: space-between; /* Align buttons to the left and right */
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 40px;
+            flex-wrap: wrap; /* Ensure buttons wrap on smaller screens */
+        }
             
     </style>
 </head>
@@ -206,10 +220,12 @@
         <a href="https://docs.google.com/document/d/e/2PACX-1vQFTsC3vhnpUEraeSW_NVfDyRpIqGIgXqMWxWG9FkpOoa6aBB50LY3WmR9TfYeldy0EZMh_rEUh_Hzk/pub" class="button">Mr. Oncay&#39;s Lesson Plan</a>
         <p>-----</p>
         <!Language Arts>
-        <a href="Grammar6and7.html" class="red_button" target="_blank">Grammar 6/7 Study Guide (Test Wednesday)</a>
-        <a href="Poetry+DickinsonStudyGuide.html" class="button" target="_blank">Poetry Study Guide</a>
-        <a href="https://docs.google.com/document/d/1_8WAYos9OhlVJzGU82JqyohpeiXPWDDAUAhLJpKaSLY/edit?tab=t.0" class="button" target="_blank">Poetry Links Page</a>
-        <a href="https://docs.google.com/document/d/1WvGxfRyOSbScNYUXVCTh5gr-8ViGCSWX0k6YtyGUfQc/edit?tab=t.0" class="button" target="_blank">Research Paper Links Page</a>
+        <div class="study-guide-box">
+            <a href="Grammar6and7.html" class="button" target="_blank">Grammar 6/7 Study Guide (Test Wednesday)</a>
+            <a href="Poetry+DickinsonStudyGuide.html" class="button" target="_blank">Poetry Study Guide</a>
+            <a href="https://docs.google.com/document/d/1_8WAYos9OhlVJzGU82JqyohpeiXPWDDAUAhLJpKaSLY/edit?tab=t.0" class="button" target="_blank">Poetry Links Page</a>
+            <a href="https://docs.google.com/document/d/1WvGxfRyOSbScNYUXVCTh5gr-8ViGCSWX0k6YtyGUfQc/edit?tab=t.0" class="button" target="_blank">Research Paper Links Page</a>
+        </div>
     </main>
 
     <footer>

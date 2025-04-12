@@ -56,6 +56,9 @@
             border-radius: 20px;
             font-size: 16px;
             transition: 0.3s;
+            flex: 1; /* Allow buttons to take equal space */
+            margin: 5px; /* Add spacing between buttons */
+            text-align: center; /* Center text inside buttons */
         }
 
         .button:hover {
@@ -177,6 +180,17 @@
             background-color: #ffeb9a;
             color: black;
         }
+
+        .study-guide-box {
+            border: 2px solid black;
+            padding: 20px;
+            margin: 20px auto;
+            display: flex;
+            justify-content: space-between; /* Align buttons to the left and right */
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 40px;
+            flex-wrap: wrap; /* Ensure buttons wrap on smaller screens */
+        }
             
     </style>
 </head>
@@ -205,9 +219,11 @@
         <a href="https://classroom.google.com/c/NzAzOTgxNjIwNDU2"class="button">Mrs. Manolescu&#39;s Lesson Plan</a>
         <!Math>
         <p>-----</p>
-        <a href="3dshapes_constructions.html" class="button">3D Shapes & Constructions Study Guide</a>
-        <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Math/ratiosofareaspolygonformulas.html" class="button">March 4th Test Study Guide - Ratios of Areas & Polygon Formulas</a>
-        <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Math/QuadProofStudyGuide.html" class="button">Quad. Proof Test Prep</a>
+        <div class="study-guide-box">
+            <a href="3dshapes_constructions.html" class="button">3D Shapes & Constructions Study Guide</a>
+            <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Math/ratiosofareaspolygonformulas.html" class="button">March 4th Test Study Guide - Ratios of Areas & Polygon Formulas</a>
+            <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Math/QuadProofStudyGuide.html" class="button">Quad. Proof Test Prep</a>
+        </div>
     </main>
 
     <footer>
