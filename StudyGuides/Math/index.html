@@ -213,6 +213,43 @@
             border-radius: 40px;
             flex-wrap: wrap; /* Ensure buttons wrap on smaller screens */
         }
+
+        .chat-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/message_icon.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            color: white;
+            border: none;
+            border-radius: 26%;
+            width: 50px;
+            height: 50px;
+            font-size: 30px;
+            cursor: pointer;
+            box-shadow : 0 4px 8px rgba(0,0,0,0.2);
+            transition: background-image 0.3s ease;
+            z-index: 1000; /* Ensure the button is above other elements */
+        }
+
+        .chat-button:hover {
+            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/message_icon_onclick.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            color: white;
+            border: none;
+            border-radius: 26%;
+            width: 50px;
+            height: 50px;
+            font-size: 30px;
+            cursor: pointer;
+            box-shadow : 0 4px 8px rgba(0,0,0,0.2);
+            transition: background-image 0.3s ease;
+            z-index: 1000; /* Ensure the button is above other elements */
+        }
             
     </style>
 </head>
@@ -251,6 +288,6 @@
     <footer>
         <p>Leo's Study Guides - Made by Leo</p>
     </footer>
-
+    <button class="chat-button" onclick="window.open('https://mail.google.com/mail/?view=cm&fs=1&to=387376%40cusdk8.org&authuser=0', '_blank')"></button>
 </body>
 </html>
