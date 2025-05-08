@@ -28,7 +28,7 @@ palpitant | *adj. spreading (ex. fear, happiness)* |
 provocation | *noun. a thing that makes someone else act* |
 prowess | *adj. skilled at something* |
 rampant | *adj. growing successfully and wildly* |
-salient |  |
+salient | *adj. most important or noticeable; leaping* |
 sated | *adj. satisfied (as if after drinking or eating)* |
 slaver | *noun. drool* |
 slovenly | *adj. sloppy; untidy* |
