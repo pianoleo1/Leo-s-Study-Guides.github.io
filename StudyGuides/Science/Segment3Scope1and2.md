@@ -23,4 +23,7 @@ Example | An apple's atoms | An apple weighed on a spring scale | Hockey pock ru
 
 **NEWTON'S THIRD LAW OF MOTION**: For every action, there is an **equal and opposite** reaction. The action and reaction force are acting on different objects. Force is measured by a spring scale in newtons.
 
-<!Newton's third law graphic organizer "forcefully speaking">
+<meta>
+<p><!Newton's third law graphic organizer "forcefully speaking"></p>
+</meta>
+
