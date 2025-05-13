@@ -37,7 +37,7 @@ Example | An apple's atoms | An apple weighed on a spring scale | Hockey pock ru
 
 13. **Newton's First Law**: A body at rest remains at rest. A body in motion stays in motion.
 
-14. **Newton's Second Law**: Acceleration is dirrectly proportional to force and inversely proportional to mass.
+14. **Newton's Second Law**: Force = Mass x Acceleration; F=MA Acceleration is dirrectly proportional to force and inversely proportional to mass.
 
 15. **Newton's Third Law**: For every action, there is an equal and opposite reaction.
 
@@ -57,10 +57,28 @@ Example | An apple's atoms | An apple weighed on a spring scale | Hockey pock ru
 
 ## Friction Notes
 
-22. 
-
-Definition | Cause | Factors to depend on | Types | Ways of using | Ways of reducing
+22. Definition | 23. Cause | 24. Factors to depend on | 25. Types | 26. Ways of using | 27. Ways of reducing
 --- | --- | --- | --- | --- | ---
 A force that is exerted when two substances are rubbed together. | Microscopic hills and valleys slide past each other in objects, and the hills and valleys cause them to not slide as easily as one without microscopic hills and valleys. | Types of surfaces involved (rough surfaces produce greater friction). | **Rolling friction**: When an object rolls over a surface.| **Walking** (shoes are under friction to the floor) | Ball bearings
 A Force that resists the motion of objects or surfaces. | | How hard surfaces push together. | **Sliding Friction**: When solids slide over another. | **Automobile** (friction between tires and road) | Oiling parts of machines
 |||| **Fluid Friction**: When an object moves through liquid and gas. | **Lighting a match**
+
+## Scope 2 - Changes in Force and Motion
+
+28. When an object's distance is changing from another object, called the **reference point** or **origin**, it is in motion.
+
+29. It takes more force to put a heavier object in motion than it does to put a lighter object in motion.
+
+30. **Inertia**: The tendency of an object to remain at rest or remain in motion; The capacity of an object to resist changes in motion.
+
+31. Inertia depends on the **mass** of the object. More mass = more inertia.
+
+32. If forces are moving an object all in the same direction, we add up the smaller forces to find out the total amount of force acting on the object.
+
+33. **Balanced force** = Object moving at constant velocity; **Unbalanced force** = Object accelerating.
+
+34. **Speed** is a *scalar* (only referring to a number) quantity, the rate at which an object moves a certain distance. s = distance/t
+
+35. **Velocity** is a *vector* (involving both the number and direction) quantity. It is the speed at which an object is displaced. v = displacement/t
+
+36. Acceleration = Change in Velocity/Time
