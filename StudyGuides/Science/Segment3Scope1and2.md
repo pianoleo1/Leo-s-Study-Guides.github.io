@@ -81,4 +81,4 @@ A Force that resists the motion of objects or surfaces. | | How hard surfaces pu
 
 35. **Velocity** is a *vector* (involving both the number and direction) quantity. It is the speed at which an object is displaced. v = displacement/t
 
-36. Acceleration = Change in Velocity/Time
+36. **Acceleration** = Change in Velocity/Time
