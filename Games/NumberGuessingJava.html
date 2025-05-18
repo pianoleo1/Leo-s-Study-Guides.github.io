@@ -181,7 +181,7 @@
       randNum = Math.floor(Math.random() * max) + 1;
       document.getElementById("game").innerHTML = `
         <p>I have picked a number between 1 and ${max}. Try to guess it!</p>
-        <input type="number" id="userGuess" />
+        <input type="number" id="userGuess" onkeydown="if (event.key === 'Enter') checkUserGuess()" />
         <button onclick="checkUserGuess()">Guess</button>
         <p id="feedback"></p>
         `;
@@ -192,8 +192,10 @@
       const feedback = document.getElementById("feedback");
       if (guess > randNum) {
         feedback.textContent = "Too high!";
+        document.getElementById("userGuess").value = "";
       } else if (guess < randNum) {
         feedback.textContent = "Too low!";
+        document.getElementById("userGuess").value = "";
       } else {
         feedback.innerHTML = `Correct! The number was ${randNum}. <br><button onclick="location.reload()">Play Again</button>`;
       }
