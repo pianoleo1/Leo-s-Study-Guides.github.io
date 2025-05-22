@@ -75,3 +75,11 @@ title: Segment 3, Scope 3 and 4 | Science
 19. **Gravity** exists between all objects with mass.
 
 20. The larger the mass, the larger the gravitational force of an object.
+
+21. Different planets have different gravitational forces, so an astronaut weighs less on planets with less mass because there is less gravitational force. Mass stays the same.
+
+22. Distance between two objects and gravitational force is represented by an **exponential graph**.
+
+23. Gravity decreases as altitude increases, but it also depends on the density of the ground (the more dense, the more gravity felt).
+
+24. The higher the latitude, the stronger the gravity. Objects weigh more when near the poles.
