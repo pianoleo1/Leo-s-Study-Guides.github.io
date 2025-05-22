@@ -40,4 +40,32 @@ title: Segment 3, Scope 3 and 4 | Science
 
 10. **Static electricity**: A storage of usually negative electric charge on an object caused by the transfer of electrons.
 
-11. **Coulomb's law**: Electric force is directly proportional to an object's charge magnitude
+11. **Coulomb's law**: Electric force is directly proportional to an object's charge magnitude (Q).
+
+    If there are charge magnitude for different objects Q1 and Q2:
+
+    - If Q1 is doubled, the electric force doubles.
+
+    - If Q1 is halved, the electric force halves.
+
+    If distance between objects doubles, the electric forces between them divides by four. Distance and electric force have a **nonlinear** relationship.
+
+12. Electromagnetic forces are created by sending an electric current through wires.
+
+13. The more coils of wire, the greater the magnetic field
+
+14. The **electromotive force** keeps electrons orbiting in an atom.
+
+15. **Electricity has to flow** in order for electromagnetics to work.
+
+16. A changing magnetic field creates an electric field.
+
+17. Static electricity acts across distances, forming electric fields (not magnetic fields).
+
+18. When a non-magnetic metal is put within the field of a magnet, it becomes magnetic.
+
+## Scope 4 - Gravitational Forces
+
+19. **Gravity** exists between all objects with mass.
+
+20. The larger the mass, the larger the gravitational force of an object.
