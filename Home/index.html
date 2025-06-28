@@ -228,9 +228,55 @@
     <h1>Leo's Study Guides</h1>
     </header>
     <main>
-        <p>Leo's Study Guides is a website made by middle schooler Leo. It focuses on mainly his class studies, and he has made this website open for his classmates.</p>
+        <p>Leo's Study Guides is a website made by Leo, a high schooler. It focuses on mainly his class studies, and he has made this website open for his classmates.</p>
         <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/StudyGuides/index.html" class="button" >Study Guides</a>
         <a href="/Leo-s-Study-Guides.github.io/Resources/index.html" class="button">Resources</a>
+
+        <canvas id="myCanvas" width="400" height="200"></canvas>
+        <script>
+            const canvas = document.getElementById('myCanvas');
+            const ctx = canvas.getContext('2d');
+            
+            let x = 0;
+            let speed = 1;
+            
+            function animate() {
+              ctx.clearRect(0, 0, canvas.width, canvas.height); // Clear canvas
+            
+              // Draw a light green circle
+              ctx.beginPath();
+              ctx.arc(x, 100, 40, 0, Math.PI * 2);
+              ctx.fillStyle = '#e3ffe5';
+              ctx.fill();
+            
+              // Update position
+              x += speed;
+              if (x > canvas.width || x < 0) {
+                speed *= -1; // Bounce back
+              }
+            
+              requestAnimationFrame(animate); // Loop
+            }
+
+            canvas.addEventListener('click', function(event) {
+            // Get click position relative to canvas
+            const rect = canvas.getBoundingClientRect();
+            const mouseX = event.clientX - rect.left;
+            const mouseY = event.clientY - rect.top;
+
+            // Calculate distance from click to center of circle
+            const dx = mouseX - x;
+            const dy = mouseY - y;
+            const distance = Math.sqrt(dx * dx + dy * dy);
+
+            if (distance < radius) {
+                // Click was inside the circle!
+                color = (color === 'red') ? 'blue' : 'red';
+            }
+            });
+
+            animate();
+        </script>
     </main>
 
     <footer>
