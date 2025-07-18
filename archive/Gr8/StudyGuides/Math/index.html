@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +25,7 @@
             text-align: center;
             font-size: 25px;
         }
-
+        
         main {
             text-align: center;
             font-size: 18px;
@@ -90,7 +91,6 @@
         }
 
         .navbar {
-            
             padding: 10px 20px;
             display: flex;
             align-items:left;
@@ -136,7 +136,7 @@
 
         .home-button {
             text-decoration: none;
-            
+            ;
             color: black;
             padding: 10px 20px;
             border-radius: 0px;
@@ -153,7 +153,7 @@
         }
         .other-button {
             text-decoration: none;
-            
+            ;
             color: black;
             padding: 10px 20px;
             border-radius: 0px;
@@ -171,7 +171,6 @@
 
         .game-button {
             text-decoration: none;
-            
             color: #e3ffe5;
             padding: 10px 20px;
             border-radius: 0px;
@@ -180,10 +179,27 @@
             border: none;
             cursor: pointer;
             transition: 0.3s;
+            display: none;
         }
         
         .game-button:hover {
             background-color: #ffeb9a;
+            color: black;
+        }
+
+        .top-button {
+            text-decoration: none;
+            color: black;
+            padding: 10px 20px;
+            border-radius: 0px;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+            background-color: none;
+        }
+        .top-button:hover {
+            background-color: none;
             color: black;
         }
 
@@ -197,12 +213,12 @@
             border-radius: 40px;
             flex-wrap: wrap; /* Ensure buttons wrap on smaller screens */
         }
-            
+
         .chat-button {
             position: fixed;
             bottom: 20px;
             right: 20px;
-            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/message_icon.png');
+            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/message_icon.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -219,7 +235,7 @@
         }
 
         .chat-button:hover {
-            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/message_icon_onclick.png');
+            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/message_icon_onclick.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -234,49 +250,50 @@
             transition: background-image 0.3s ease;
             z-index: 1000; /* Ensure the button is above other elements */
         }
-
+            
     </style>
 </head>
 <body>
     <div class="navbar">
-        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Home/index.html" class="other-button">Home</a>
+        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Home/index.html" class="other-button">Home</a>
         <div class="dropdown">
-            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/StudyGuides/index.html" class="other-button" >Study Guides ▼</a>
+            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/StudyGuides/index.html" class="home-button" >Study Guides ▼</a>
             <div class="dropdown-content">
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/LA/index.html">LA</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/SS/index.html">SS</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Science/index.html">Science</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Drama/index.html">Drama</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Math/index.html">Math</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/BegBand/index.html">BegBand</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/LA/index.html">LA</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/SS/index.html">SS</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Science/index.html">Science</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Drama/index.html">Drama</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Math/index.html">Math</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/BegBand/index.html">BegBand</a>
             </div>
         </div>
         <div class="dropdown">
-            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/index.html" class="home-button">Resources ▼</a>
+            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/index.html" class="other-button">Resources ▼</a>
             <div class="dropdown-content">
-                <a href="/Leo-s-Study-Guides.github.io/Resources/LA/index.html">LA</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/SS/index.html">SS</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/Science/index.html">Science</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/Drama/index.html">Drama</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/Math/index.html">Math</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/BegBand/index.html">BegBand</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/LA/index.html">LA</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/SS/index.html">SS</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/Science/index.html">Science</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/Drama/index.html">Drama</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/Math/index.html">Math</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/BegBand/index.html">BegBand</a>
             </div>
         </div>
     </div>
     <header>
-    <h1>Resources</h1>
+    <h1><a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/index.html" class="top-button">Study Guides</a></h1>
     <hr>
-    <main>
-        <div class="study-guide-box">
-            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/LA/index.html" class="button">LA</a>
-            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/SS/index.html" class="button">SS</a>
-            <p> More Coming Soon!</p>
-            <!--<a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/Science/index.html" class="button">Science</a>-->
-            <!--<a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/Drama/index.html" class="button">Drama</a>-->
-            <!--<a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/Math/index.html" class="button">Math</a>-->
-            <!--<a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/BegBand/index.html" class="button">BegBand</a>-->
-        </div>
     </header>
+    <main>
+        <h2 id="math-mrs-manolescu-s-lesson-plan-https-classroom-google-com-c-nzazotgxnjiwndu2-">Math</h2>
+        <a href="https://classroom.google.com/c/NzAzOTgxNjIwNDU2"class="button">Mrs. Manolescu&#39;s Lesson Plan</a>
+        <!Math>
+        <p>-----</p>
+        <div class="study-guide-box">
+            <a href="3dshapes_constructions.html" class="button">3D Shapes & Constructions Study Guide</a>
+            <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Math/ratiosofareaspolygonformulas.html" class="button">March 4th Test Study Guide - Ratios of Areas & Polygon Formulas</a>
+            <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Math/QuadProofStudyGuide.html" class="button">Quad. Proof Test Prep</a>
+        </div>
+    </main>
 
     <footer>
         <p>Leo's Study Guides - Made by Leo</p>

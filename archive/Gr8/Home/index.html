@@ -25,7 +25,7 @@
             text-align: center;
             font-size: 25px;
         }
-
+        
         main {
             text-align: center;
             font-size: 18px;
@@ -44,6 +44,7 @@
         }
         
         body {
+            background-color: #e3ffe5;
             font-family:Georgia, 'Times New Roman', Times, serif;
             background-image: url('https://i.pinimg.com/736x/8d/d9/b6/8dd9b6e70ab1a43414c7450b6fc0f044.jpg'); /* Path to your image */
             background-size: cover; /* Ensures the image covers the entire screen */
@@ -62,9 +63,6 @@
             border-radius: 20px;
             font-size: 16px;
             transition: 0.3s;
-            flex: 1; /* Allow buttons to take equal space */
-            margin: 5px; /* Add spacing between buttons */
-            text-align: center; /* Center text inside buttons */
         }
 
         .button:hover {
@@ -73,25 +71,8 @@
         
         }
 
-        .red_button {
-            display: inline-block;
-            background-color: rgb(255, 175, 175);
-            color: black;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 20px;
-            font-size: 16px;
-            transition: 0.3s;
-        }
-
-        .red_button:hover {
-            background-color: red;
-            color: black;
-        
-        }
-
         .navbar {
-            
+            background-color: none;
             padding: 10px 20px;
             display: flex;
             align-items:left;
@@ -137,7 +118,7 @@
 
         .home-button {
             text-decoration: none;
-            
+            background-color: none;
             color: black;
             padding: 10px 20px;
             border-radius: 0px;
@@ -154,7 +135,7 @@
         }
         .other-button {
             text-decoration: none;
-            
+            background-color: none;
             color: black;
             padding: 10px 20px;
             border-radius: 0px;
@@ -164,7 +145,6 @@
             cursor: pointer;
             transition: 0.3s;
         }
-        
         .other-button:hover {
             background-color: #ffeb9a;
             color: black;
@@ -172,7 +152,7 @@
 
         .game-button {
             text-decoration: none;
-            
+            background-color: none;
             color: #e3ffe5;
             padding: 10px 20px;
             border-radius: 0px;
@@ -181,6 +161,7 @@
             border: none;
             cursor: pointer;
             transition: 0.3s;
+            display: none;
         }
         
         .game-button:hover {
@@ -188,38 +169,11 @@
             color: black;
         }
 
-        .top-button {
-            text-decoration: none;
-            color: black;
-            padding: 10px 20px;
-            border-radius: 0px;
-            font-weight: bold;
-            border: none;
-            cursor: pointer;
-            transition: 0.3s;
-            background-color: none;
-        }
-        .top-button:hover {
-            background-color: none;
-            color: black;
-        }
-
-        .study-guide-box {
-            border: 2px solid black;
-            padding: 20px;
-            margin: 20px auto;
-            display: flex;
-            justify-content: space-between; /* Align buttons to the left and right */
-            background-color: rgba(255, 255, 255, 0.8);
-            border-radius: 40px;
-            flex-wrap: wrap; /* Ensure buttons wrap on smaller screens */
-        }
-
         .chat-button {
             position: fixed;
             bottom: 20px;
             right: 20px;
-            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/message_icon.png');
+            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/message_icon.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -236,7 +190,7 @@
         }
 
         .chat-button:hover {
-            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/message_icon_onclick.png');
+            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/message_icon_onclick.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -251,44 +205,78 @@
             transition: background-image 0.3s ease;
             z-index: 1000; /* Ensure the button is above other elements */
         }
+
     </style>
 </head>
 <body>
     <div class="navbar">
-        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Home/index.html" class="other-button">Home</a>
+        <a href="index.html" class="home-button">Home</a>
         <div class="dropdown">
-            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/StudyGuides/index.html" class="other-button" >Study Guides ▼</a>
+            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/StudyGuides/index.html" class="other-button" >Study Guides ▼</a>
             <div class="dropdown-content">
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/LA/index.html">LA</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/SS/index.html">SS</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Science/index.html">Science</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Drama/index.html">Drama</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Math/index.html">Math</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/BegBand/index.html">BegBand</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/LA/index.html">LA</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/SS/index.html">SS</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Science/index.html">Science</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Drama/index.html">Drama</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Math/index.html">Math</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/BegBand/index.html">BegBand</a>
             </div>
         </div>
-        <div class="dropdown">
-            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/index.html" class="home-button">Resources ▼</a>
-            <div class="dropdown-content">
-                <a href="/Leo-s-Study-Guides.github.io/Resources/LA/index.html">LA</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/SS/index.html">SS</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/Science/index.html">Science</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/Drama/index.html">Drama</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/Math/index.html">Math</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/BegBand/index.html">BegBand</a>
-            </div>
-        </div>
+        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/index.html" class="other-button">Resources</a>
     </div>
     <header>
-    <h1><a href="/Leo-s-Study-Guides.github.io/Resources/index.html" class="top-button">Resources</a></h1>
-    <hr>
+    <h1>Leo's Study Guides</h1>
     </header>
     <main>
-        <h2 id="language-arts-mr-oncay-s-lesson-plan-https-docs-google-com-document-d-e-2pacx-1vqftsc3vhnpueraesw_nvfdyrpiqgigxqmwxwg9fkpooa6abb50ly3wmr9tfyeldy0ezmh_reuh_hzk-pub-">Language Arts</h2>
-        <!Language Arts>
-        <div class="study-guide-box">
-            <a href="callofthewildvocab.html" class="button" target="_blank">Call of the Wild Vocabulary</a>
-        </div>
+        <p>Leo's Study Guides is a website made by Leo, a high schooler. It focuses on mainly his class studies, and he has made this website open for his classmates.</p>
+        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/StudyGuides/index.html" class="button" >Study Guides</a>
+        <a href="/Leo-s-Study-Guides.github.io/archive/Resources/index.html" class="button">Resources</a>
+
+        <canvas id="myCanvas" width="400" height="200"></canvas>
+        <script>
+            const canvas = document.getElementById('myCanvas');
+            const ctx = canvas.getContext('2d');
+            
+            let x = 0;
+            let speed = 1;
+            
+            function animate() {
+              ctx.clearRect(0, 0, canvas.width, canvas.height); // Clear canvas
+            
+              // Draw a light green circle
+              ctx.beginPath();
+              ctx.arc(x, 100, 40, 0, Math.PI * 2);
+              ctx.fillStyle = '#e3ffe5';
+              ctx.fill();
+            
+              // Update position
+              x += speed;
+              if (x > canvas.width || x < 0) {
+                speed *= -1; // Bounce back
+              }
+            
+              requestAnimationFrame(animate); // Loop
+            }
+
+            canvas.addEventListener('click', function(event) {
+            // Get click position relative to canvas
+            const rect = canvas.getBoundingClientRect();
+            const mouseX = event.clientX - rect.left;
+            const mouseY = event.clientY - rect.top;
+
+            // Calculate distance from click to center of circle
+            const dx = mouseX - x;
+            const dy = mouseY - y;
+            const distance = Math.sqrt(dx * dx + dy * dy);
+
+            if (distance < radius) {
+                // Click was inside the circle!
+                color = (color === 'red') ? 'blue' : 'red';
+            }
+            });
+
+            animate();
+        </script>
     </main>
 
     <footer>
@@ -297,3 +285,4 @@
     <button class="chat-button" onclick="window.open('https://mail.google.com/mail/?view=cm&fs=1&to=387376%40cusdk8.org&authuser=0', '_blank')"></button>
 </body>
 </html>
+

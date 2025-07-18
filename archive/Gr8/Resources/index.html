@@ -1,14 +1,14 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-0B2RL00V6Q"></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-        gtag('config', 'G-0B2RL00V6Q');
+      gtag('config', 'G-0B2RL00V6Q');
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,7 +43,6 @@
         }
         
         body {
-            background-color: #e3ffe5;
             font-family:Georgia, 'Times New Roman', Times, serif;
             background-image: url('https://i.pinimg.com/736x/8d/d9/b6/8dd9b6e70ab1a43414c7450b6fc0f044.jpg'); /* Path to your image */
             background-size: cover; /* Ensures the image covers the entire screen */
@@ -73,7 +72,25 @@
         
         }
 
+        .red_button {
+            display: inline-block;
+            background-color: rgb(255, 175, 175);
+            color: black;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 20px;
+            font-size: 16px;
+            transition: 0.3s;
+        }
+
+        .red_button:hover {
+            background-color: red;
+            color: black;
+        
+        }
+
         .navbar {
+            
             padding: 10px 20px;
             display: flex;
             align-items:left;
@@ -119,6 +136,7 @@
 
         .home-button {
             text-decoration: none;
+            
             color: black;
             padding: 10px 20px;
             border-radius: 0px;
@@ -135,6 +153,7 @@
         }
         .other-button {
             text-decoration: none;
+            
             color: black;
             padding: 10px 20px;
             border-radius: 0px;
@@ -152,6 +171,7 @@
 
         .game-button {
             text-decoration: none;
+            
             color: #e3ffe5;
             padding: 10px 20px;
             border-radius: 0px;
@@ -167,22 +187,6 @@
             color: black;
         }
 
-        .top-button {
-            text-decoration: none;
-            color: black;
-            padding: 10px 20px;
-            border-radius: 0px;
-            font-weight: bold;
-            border: none;
-            cursor: pointer;
-            transition: 0.3s;
-            background-color: none;
-        }
-        .top-button:hover {
-            background-color: none;
-            color: black;
-        }
-        
         .study-guide-box {
             border: 2px solid black;
             padding: 20px;
@@ -193,12 +197,12 @@
             border-radius: 40px;
             flex-wrap: wrap; /* Ensure buttons wrap on smaller screens */
         }
-
+            
         .chat-button {
             position: fixed;
             bottom: 20px;
             right: 20px;
-            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/message_icon.png');
+            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/archive/Resources/message_icon.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -215,7 +219,7 @@
         }
 
         .chat-button:hover {
-            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/message_icon_onclick.png');
+            background-image: url('https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/message_icon_onclick.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -230,50 +234,49 @@
             transition: background-image 0.3s ease;
             z-index: 1000; /* Ensure the button is above other elements */
         }
-        
+
     </style>
 </head>
 <body>
     <div class="navbar">
-        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Home/index.html" class="other-button">Home</a>
+        <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Home/index.html" class="other-button">Home</a>
         <div class="dropdown">
-            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/StudyGuides/index.html" class="home-button" >Study Guides ▼</a>
+            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/StudyGuides/index.html" class="other-button" >Study Guides ▼</a>
             <div class="dropdown-content">
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/LA/index.html">LA</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/SS/index.html">SS</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Science/index.html">Science</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Drama/index.html">Drama</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Math/index.html">Math</a>
-                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/BegBand/index.html">BegBand</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/LA/index.html">LA</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/SS/index.html">SS</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Science/index.html">Science</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Drama/index.html">Drama</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/Math/index.html">Math</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/StudyGuides/BegBand/index.html">BegBand</a>
             </div>
         </div>
         <div class="dropdown">
-            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/index.html" class="other-button">Resources ▼</a>
+            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/index.html" class="home-button">Resources ▼</a>
             <div class="dropdown-content">
-                <a href="/Leo-s-Study-Guides.github.io/Resources/LA/index.html">LA</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/SS/index.html">SS</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/Science/index.html">Science</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/Drama/index.html">Drama</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/Math/index.html">Math</a>
-                <a href="/Leo-s-Study-Guides.github.io/Resources/BegBand/index.html">BegBand</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/LA/index.html">LA</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/SS/index.html">SS</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/Science/index.html">Science</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/Drama/index.html">Drama</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/Math/index.html">Math</a>
+                <a href="/Leo-s-Study-Guides.github.io/archive/Resources/BegBand/index.html">BegBand</a>
             </div>
         </div>
     </div>
     <header>
-    <h1><a href="/Leo-s-Study-Guides.github.io/StudyGuides/index.html" class="top-button">Study Guides</a></h1>
+    <h1>Resources</h1>
     <hr>
-    </header>
     <main>
-        <h2 id="drama-mr-oncay-s-lesson-plan-https-docs-google-com-document-d-e-2pacx-1vt1gk9kery1fvxmgiuxbwr_kq1jhdxezodhjelxzchtzdebrmof58p71zapkcvz0cu7ptggzq7ivtgn-pub-">Drama</h2>
-        <a href="https://docs.google.com/document/d/e/2PACX-1vT1gk9KErY1FvxmgiuXBwR_Kq1jhdxEZODHJeLxZchTZdeBRmof58P71ZAPkCVZ0cU7PtGgzQ7iVtGn/pub" class="button">Mr. Oncay&#39;s Lesson Plan</a>
-        <!Drama>
-        <p>-----</p>
         <div class="study-guide-box">
-            <a href="https://www.quia.com/jg/2621206.html" class="button">Theater Vocab Games</a>
-            <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Drama/TheaterVocab.html" class="button">Theater Vocabulary</a>
-            <a href="https://docs.google.com/document/d/1ZWRzMKhZuLFahKfqQ7jhNMtsrHSCaCxS9ENxl6Mz4mM/edit?tab=t.0" class="button">Fairytale Skit Directions</a>
+            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/LA/index.html" class="button">LA</a>
+            <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/SS/index.html" class="button">SS</a>
+            <p> More Coming Soon!</p>
+            <!--<a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/Science/index.html" class="button">Science</a>-->
+            <!--<a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/Drama/index.html" class="button">Drama</a>-->
+            <!--<a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/Math/index.html" class="button">Math</a>-->
+            <!--<a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/archive/Resources/BegBand/index.html" class="button">BegBand</a>-->
         </div>
-    </main>
+    </header>
 
     <footer>
         <p>Leo's Study Guides - Made by Leo</p>
