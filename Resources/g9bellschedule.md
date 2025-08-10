@@ -1,3 +1,6 @@
+---
+---
+
 # Amador Valley High School Bell Schedule
 
 Monday/Tuesday/Friday | Wednesday | Thursday
