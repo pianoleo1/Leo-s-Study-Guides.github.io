@@ -1,4 +1,5 @@
 ---
+title: Amador Valley High School Bell Schedule
 ---
 
 # Amador Valley High School Bell Schedule
