@@ -4,6 +4,7 @@ title: Amador Valley High School Bell Schedule
 
 # Amador Valley High School Bell Schedule
 
+**table** testing *testing* $\frac{1}{2}$ Nah
 Monday/Tuesday/Friday | Wednesday | Thursday
 --- | --- | ---
 *Breakfast served at 8:00 a.m.* | *Breakfast served at 8:20 a.m.* | *Breakfast served at 8:20 a.m.*
