@@ -62,13 +62,28 @@
             text-decoration: none;
             border-radius: 20px;
             font-size: 16px;
-            transition: 0.3s;
+            transition: 0.5s;
+            flex: 1; /* Allow buttons to take equal space */
+            margin: 5px; /* Add spacing between buttons */
+            text-align: center; /* Center text inside buttons */
+            box-shadow:  -6px 5px 5px rgba(0,0,0,0.4); /* Add shadow for depth */
+            border: 5px solid green;
+            animation: DropIn 1s ease forwards; /* Animation for button appearance */   
         }
-
+        
+        @keyframes DropIn {
+            from {
+                transform: translateY(-300px);
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
         .button:hover {
             background-color: #22aa50;
             color: black;
-        
+            border: 2px solid green;
         }
 
         .navbar {
