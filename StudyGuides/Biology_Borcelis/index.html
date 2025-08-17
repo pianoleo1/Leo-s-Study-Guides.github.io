@@ -1,23 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0B2RL00V6Q"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="/www.googletagmanager.com/gtag/js?id=G-0B2RL00V6Q"></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-        gtag('config', 'G-0B2RL00V6Q');
+      gtag('config', 'G-0B2RL00V6Q');
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biology Study Guide</title>
-    <link rel="icon" href="../favicon.ico">
+    <title>Leo's Study Guides</title>
+    <link rel="icon" href="favicon.ico">
     <style>
         h1 {
             text-align: center;
             font-size: 32px;
+            position: relative;
+            opacity: 1;
         }
+
+        @keyframes DropIn {
+            from {
+                transform: translateY(-300px);
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
         h2 {
             text-align: center;
             font-size: 25px;
@@ -27,9 +41,11 @@
             font-size: 18px;
             padding: 18px;
             color: black;
+            image-rendering: pixelated;
         }
+        
         footer {
-            position: relative;
+            position:relative;
             bottom: 0;
             left: 0;
             width: 100%;
@@ -37,36 +53,283 @@
             text-align: center;
             padding: 10px;
         }
+        
         body {
             background-color: #e3ffe5;
-            font-family: Georgia, 'Times New Roman', Times, serif;
-            background-image: url('https://i.pinimg.com/736x/8d/d9/b6/8dd9b6e70ab1a43414c7450b6fc0f044.jpg');
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-            height: 100vh;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            background-image: url('https://i.pinimg.com/736x/8d/d9/b6/8dd9b6e70ab1a43414c7450b6fc0f044.jpg'); /* Path to your image */
+            background-size: cover; /* Ensures the image covers the entire screen */
+            background-position: center; /* Centers the image */
+            background-attachment: fixed; /* Makes the image fixed when scrolling */
+            height: 100vh; /* Ensures the background covers the entire height of the viewport */
             margin: 0;
         }
+
         .button {
             display: inline-block;
             background-color: #e3ffe5;
             color: black;
             padding: 10px 20px;
             text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s, color 0.3s;
+            border-radius: 20px;
+            font-size: 16px;
+            transition: 0.5s;
+            flex: 1; /* Allow buttons to take equal space */
+            margin: 5px; /* Add spacing between buttons */
+            text-align: center; /* Center text inside buttons */
+            box-shadow:  -6px 5px 5px rgba(0,0,0,0.4); /* Add shadow for depth */
+            border: 5px solid green;
+            animation: DropIn 1s ease forwards; /* Animation for button appearance */   
         }
+
         .button:hover {
-            background-color: #d1ffd1;
-            color: #333;
+            background-color: #22aa50;
+            color: black;
+            border: 2px solid green;
+        
         }
-        .button:active {
-            background-color: #c0ffc0;
-            color: #222;
+
+        .red_button {
+            display: inline-block;
+            background-color: rgb(255, 175, 175);
+            color: black;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 20px;
+            font-size: 16px;
+            transition: 0.3s;
+            margin: 5px;
+        }
+
+        .red_button:hover {
+            background-color: red;
+            color: black;
+        
+        }
+
+        .navbar {
+            background-color: none;
+            padding: 10px 20px;
+            display: flex;
+            align-items:left;
+            
+        }
+
+        .navbar a {
+            color: black;
+            text-decoration: none;
+            padding: 14px 20px;
+            display: inline-block;
+            animation: DropIn 1s ease forwards; /* Animation for navbar links */
+
+        }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: white;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+            z-index: 1;
+            min-height: 160px;
+        }
+        
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            animation: none;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .home-button {
+            text-decoration: none;
+            background-color: none;
+            color: black;
+            padding: 10px 20px;
+            border-radius: 0px;
+            font-size: 16px;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        .home-button:hover {
+            background-color: #ffeb9a;
+            color: black;
+        }
+        .other-button {
+            text-decoration: none;
+            background-color: none;
+            color: black;
+            padding: 10px 20px;
+            border-radius: 0px;
+            font-size: 16px;
+            font-weight: normal;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .other-button:hover {
+            background-color: #ffeb9a;
+            color: black;
+        }
+
+        .game-button {
+            text-decoration: none;
+            background-color: none;
+            color: #e3ffe5;
+            padding: 10px 20px;
+            border-radius: 0px;
+            font-size: 16px;
+            font-weight: normal;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        
+        .game-button:hover {
+            background-color: #ffeb9a;
+            color: black;
+        }
+
+        .top-button {
+            text-decoration: none;
+            color: black;
+            padding: 10px 20px;
+            border-radius: 0px;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            transition: 0.3s;
+            background-color: none;
+        }
+        .top-button:hover {
+            background-color: none;
+            color: black;
+        }
+        
+        .study-guide-box {
+            border: 2px solid black;
+            padding: 20px;
+            margin: 20px auto;
+            display: flex;
+            justify-content: space-between; /* Align buttons to the left and right */
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 40px;
+            flex-wrap: wrap;
+        }
+
+        .chat-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-image: 'Leo-s-Study-Guides.github.io/Resources/message_icon.png';
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            color: white;
+            border: none;
+            border-radius: 26%;
+            width: 50px;
+            height: 50px;
+            font-size: 30px;
+            cursor: pointer;
+            box-shadow:  -6px 5px 5px rgba(0,0,0,0.4);
+            transition: background-image 0.3s ease;
+            z-index: 1000; /* Ensure the button is above other elements */
+        }
+
+        .chat-button:hover {
+            background-image: url('/Leo-s-Study-Guides.github.io/Resources/message_icon_onclick.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            color: white;
+            border: none;
+            border-radius: 26%;
+            width: 50px;
+            height: 50px;
+            font-size: 30px;
+            cursor: pointer;
+            box-shadow:  -6px 5px 5px rgba(0,0,0,0.4);
+            transition: background-image 0.3s ease;
+            z-index: 1000; /* Ensure the button is above other elements */
+        }
+        
+        .u32 {
+            font-size: 32px;
+        }
+
+        .u33 {
+            font-size: 33px;
+        }  
+        .u34 {
+            font-size: 34px;
+        }
+        .u35 {
+            font-size: 35px;
+        }
+        .u36 {
+            font-size: 36px;
+        }
+        .u37 {
+            font-size: 37px;
+        }
+        .u38 {
+            font-size: 38px;
         }
     </style>
 </head>
 <body>
-    <h1>Biology Study Guide</h1>
+    <div class="navbar">
+        <a href="/Leo-s-Study-Guides.github.io/Home/index.html" class="other-button" >Home</a>
+        <div class="dropdown">
+            <a href="/Leo-s-Study-Guides.github.io/StudyGuides/index.html" class="home-button" >Study Guides ▼</a>
+            <div class="dropdown-content">
+            <a href="Biology_Borcelis/index.html">Biology - Borcelis</a>
+            <a href="Drama1_Davis/index.html">Drama 1 - Davies</a>
+            <a href="Health_Turner/index.html">Health - Turner</a>
+            <a href="Hon_Freshman_English_Alamillo/index.html">Honors Freshman English - Alamillo</a>
+            <a href="HPC_Reyes/index.html">Honors Pre-Calculus - Reyes</a>
+            <a href="PE_Silva/index.html">PE - Silva</a><!-- Add links to each subject's study guides -->
+            </div>
+        </div>
+        <a href="/Leo-s-Study-Guides.github.io/Resources/index.html" class="other-button">Resources</a>
+    </div>
+    <header>
+        <h1>
+            Study Guides
+        </h1>
+    </header>
+    <main>
+        <div class="study-guide-box">
+            <a href="Biology_Borcelis/index.html" class="button">Biology - Borcelis</a>
+            <a href="Drama1_Davis/index.html" class="button">Drama 1 - Davies</a>
+            <a href="Health_Turner/index.html" class="button">Health - Turner</a>
+            <a href="Hon_Freshman_English_Alamillo/index.html" class="button">Honors Freshman English - Alamillo</a>
+            <a href="HPC_Reyes/index.html" class="button">Honors Pre-Calculus - Reyes</a>
+            <a href="PE_Silva/index.html" class="button">PE - Silva</a>
+        </div>
+    </main>
+    <footer>
+        <p>Leo's Study Guides - Made by Leo</p>
+    </footer>
+    <button class="chat-button" onclick="window.open('https://mail.google.com/mail/?view=cm&fs=1&to=387376%40cusdk8.org&authuser=0', '_blank')"></button>
 </body>
 </html>
