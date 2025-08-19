@@ -90,7 +90,7 @@
             background-color: none;
             padding: 10px 20px;
             display: flex;
-            align-items:left;
+            align-items:left; /* Animation for navbar appearance */
         }
 
         .navbar a {
@@ -98,11 +98,13 @@
             text-decoration: none;
             padding: 14px 20px;
             display: inline-block;
+            animation: DropIn 1s ease forwards; /* Animation for link appearance */
         }
 
         .dropdown {
             position: relative;
             display: inline-block;
+
         }
 
         .dropdown-content {
@@ -111,8 +113,9 @@
             background-color: white;
             min-width: 160px;
             box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
-            z-index: 1;
             min-height: 160px;
+            z-index: 1;
+
         }
         
         .dropdown-content a {
@@ -120,15 +123,21 @@
             padding: 12px 16px;
             text-decoration: none;
             display: block;
+            animation: none;
+
         }
 
         .dropdown-content a:hover {
             background-color: #ddd;
             color: black;
+            animation: none;
+
         }
 
         .dropdown:hover .dropdown-content {
             display: block;
+            animation: none;
+
         }
 
         .home-button {
@@ -380,7 +389,7 @@
                 -webkit-background-clip: text;
                 -webkit-text-fill-color: transparent;
                 letter-spacing: 0.15ch;
-                font-weight: 600;
+                font-weight: 600; /* Animation for button text appearance */
             }
 
             &:after {
@@ -467,7 +476,12 @@
         <div class="dropdown">
             <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/StudyGuides/index.html" class="other-button" >Study Guides ▼</a>
             <div class="dropdown-content">
-
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Biology_Borcelis/index.html">Biology - Borcelis</a>
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Drama1_Davis/index.html">Drama 1 - Davis</a>
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/PE_Silva/index.html">PE - Silva</a>
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/HPC_Reyes/index.html">HPC - Reyes</a>
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Hon_Freshman_English_Alamillo/index.html">Hon. Freshman English - Alamillo</a>
+                <a href="/Leo-s-Study-Guides.github.io/StudyGuides/Health_Turner/index.html">Health - Turner</a>
             </div>
         </div>
         <a href="https://pianoleo1.github.io/Leo-s-Study-Guides.github.io/Resources/index.html" class="other-button">Resources</a>
