@@ -35,6 +35,10 @@
 
 **Experimental group**: The group that receives the change that is nessecerry to test.
 
+**Scientific Theory**: Explains why
+
+**Scientific Law**: Describes behavior
+
 ## Information
 
 **Graphing requirements**
