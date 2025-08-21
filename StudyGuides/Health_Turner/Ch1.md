@@ -22,3 +22,13 @@ Labeled clockwise, starting from top left:
 - **Amygdala**: This makes teens seek thrill.
 
 *The brain fully develops at around the age of twenty-five.*
+
+
+## Areas of Health/INfluences
+
+Four Areas of Health
+
+1. Physical
+3. Mental
+4. Social
+5. Emotional
