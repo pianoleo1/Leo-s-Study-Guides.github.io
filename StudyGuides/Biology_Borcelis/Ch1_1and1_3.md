@@ -59,10 +59,10 @@ S | Scale
 
 **Metric conversions**
 
-kilo (k) | Hecto (h) | Dekal (da) |  | Deci (d) | Centi (C) | Mili (m)
+kilo (k) | Hecto (h) | Dekal (da) | M/L/G | Deci (d) | Centi (C) | Mili (m)
 --- | --- | --- | --- | --- | --- | ---
 1000 | 100 | 10 | | 0.1 | 0.01 | 0.001
-units | units | units | Meters Liters Grams | units | units | units
+units | units | units | Meters/Liters/Grams | units | units | units
 
 **Characteristics of Life** 8
 
