@@ -13,11 +13,15 @@
 
 **qualitative data**: Data consisting of observations (size, color etc.).
 
-**quantitative data**: Data consisting of numbers.
+**quantitative data**: Data consisting of numbers. (Has to be *precise and accurate*)
 
-**Scientists** explain things in our world.
+**precise**: Similar to other trials.
 
-**Science** . . . 
+**accurate**: NOmerical accuracy (by reading measurements, etc.).
+
+**scientists** explain things in our world.
+
+**science** . . . 
 
 - Uses evidence
 
@@ -29,15 +33,15 @@
 
 - Uses data
 
-**Scientific Methodology**: Observing and asking questions, and it focuses on one factor at a time.
+**scientific Methodology**: Observing and asking questions, and it focuses on one factor at a time.
 
-**Control group**: The group that stays normal.
+**control group**: The group that stays normal.
 
-**Experimental group**: The group that receives the change that is nessecerry to test.
+**experimental group**: The group that receives the change that is nessecerry to test.
 
-**Scientific Theory**: Explains why
+**scientific Theory**: Explains why
 
-**Scientific Law**: Describes behavior
+**scientific Law**: Describes behavior
 
 ## Information
 
@@ -53,6 +57,13 @@ L | Labels
 
 S | Scale
 
+**Metric conversions**
+
+kilo (k) | Hecto (h) | Dekal (da) |  | Deci (d) | Centi (C) | Mili (m)
+--- | --- | --- | --- | --- | --- | ---
+1000 | 100 | 10 | | 0.1 | 0.01 | 0.001
+units | units | units | Meters Liters Grams | units | units | units
+
 **Characteristics of Life** 8
 
 Living things . . . 
@@ -61,7 +72,7 @@ Living things . . .
 
 2. Maintain homeostaisis
 
-3. Respond to stimuli
+3. Respond to stmuli
 
 4. Reproduce
 
