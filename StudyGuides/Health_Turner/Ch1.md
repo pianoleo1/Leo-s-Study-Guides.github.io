@@ -29,10 +29,13 @@ Labeled clockwise, starting from top left:
 
 ### Four Areas of Health
 
-1. Physical
-3. Mental
-4. Social
-5. Emotional
++ Physical
+
++ Mental
+
++ Social
+
++ Emotional
 
 ### Influences on Health
 
@@ -80,11 +83,15 @@ Labeled clockwise, starting from top left:
 
 ***Which Risk behaviors outlined by the CDC can lead to heart disease?***
 
+_________________________________________________________________________
+
 ***Which risk behaviors outlined by the CDC can lead to cancer?***
+
+_________________________________________________________________________
 
 ## Goals
 
-SMART goals are
+**SMART goals** are
 
 Specific
 
