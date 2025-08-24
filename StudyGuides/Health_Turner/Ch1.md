@@ -119,6 +119,19 @@ Timely
 
 4. Agree with other reliable sources?
 
+
+## Communication
+
+What are the 4 types of communication? Be able to describe each.
+
++
+
++
+
++
+
++
+
 ## Sleep
 
 Physical consequences - increased risk for . . . | Mental/emotional consequences - increased risk for . . . 
