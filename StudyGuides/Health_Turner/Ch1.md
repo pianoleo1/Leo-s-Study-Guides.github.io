@@ -83,11 +83,11 @@ Labeled clockwise, starting from top left:
 
 ***Which Risk behaviors outlined by the CDC can lead to heart disease?***
 
-_________________________________________________________________________
+Smoking, diet, physical activity.
 
 ***Which risk behaviors outlined by the CDC can lead to cancer?***
 
-_________________________________________________________________________
+Lack of nutrition, sexual activity.
 
 ## Goals
 
