@@ -83,11 +83,11 @@ Labeled clockwise, starting from top left:
 
 ***Which Risk behaviors outlined by the CDC can lead to heart disease?***
 
-_________________________________________________________________________
+Smoking, diet, physical activity.
 
 ***Which risk behaviors outlined by the CDC can lead to cancer?***
 
-_________________________________________________________________________
+Lack of nutrition, sexual activity.
 
 ## Goals
 
@@ -124,13 +124,13 @@ Timely
 
 What are the 4 types of communication? Be able to describe each.
 
-+
++ **Passive** - Does not clearly state needs, wants, and feelings.
 
-+
++ **Aggressive** - Insults and demands others.
 
-+
++ **Passive-Aggressive** - Using techniques that do not clearly state needs, wants, and feelings to make demands of and insult others.
 
-+
++ **Assertive** - Clearly stating wants, needs, and feelings.
 
 ## Sleep
 
