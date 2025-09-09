@@ -33,9 +33,9 @@ Ions are atoms that have positive or negative charge by reducing or increasing t
 Isotopes are atoms with changed number of neutrons. They are used to find the age of fossils, treat cancer, and used as tracers to help locate substance movement in living organisms.
 
 **Radioactive isotopes**: Isotopes with unstable nuclei that break down.
-### Compounds
+### Chemical Compounds
 
-Substances that have greater than or equal to two elements combined in a **fixed ratio**.
+Substances that have $\ge$ to two elements combined in a **fixed ratio**.
 
 ### Chemical Bonds
 
@@ -47,4 +47,28 @@ Substances that have greater than or equal to two elements combined in a **fixed
 
 **Nonpolar**: Equal charge resulting on the atoms.
 
-**Intermolecular attractions**: Occurs between molecules, but they are very weak. (Ex. **Hydrogen Bonds**)
+**Intermolecular attractions**: Occurs between molecules, but they are very weak. Ex. Van der waals forces, **Hydrogen Bonds** (Bonding by $\pm$ attracting to each other).
+
+## Water
+
+**Water . . .**
+
+- is **polar**,
+
+- is a universal **solvent**,
+
+- has high **heat** **capacity** (or high specific heat), and
+
+- has **cohesive** (attraction between two of the same molecule) and **adhesive** (attraction between two chemically different molecules) capabilities.
+
+Water uses hydrogen bonding to covalent bond.
+
+V | Def
+--- | ---
+capillary action | When water goes up thin tubes, leveraging adhesion and cohesion.
+mixture |  When two substances are not chemically bonded, and they can still be physically seperated.
+solution | When a solvent dissolves a solute.
+suspension | Not dissolved, but still seperated by solvent (Ex. sand in water).
+buffers | Weak acids or bases that prevent sharp changes in pH.
+---
+Higher pH = more basic (OH-); lower pH = more acidic (H+)
