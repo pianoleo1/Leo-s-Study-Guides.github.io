@@ -155,3 +155,60 @@ antibodies - destroy disease causing microorganisms (no effect on viruses - only
 
 antivirals and antifungals: suppress viruses rather than kill
 
+### Medicines that relive pain (ex. aduil-OTC, Tylenol-OTC, Morphine-prescription)
+
+Analyesics, ranging from aspirin to opium based morphine and cadeine
+
+### Medicines that promote health (ex. Allegru, Insulin, chemotherapy)
+
+Allergy meds
+
+Body regulating meds-regulates body chemistry
+
+Antidepressants and antipsychotics
+
+Cancer treatments
+
+### Dr. Manning Notes
+
+**Oplate** is natural, **opiod** is artificial
+
+Painkillers may cause the brain stem to slow down or stop one's breathing (also called alcohol, GHB, barbituates, benzodiazepines)
+
+An extended release drug **should not be broken**.
+
+## Marijuana NOtes
+
+Marijuana is **addictive8*
+
+**3 in 10** people will become addicted.
+
+The risk of addiction is greater in people who start using during youth or more frequently.
+
+Marijuana is detectable in urine for up to **thirty days** after use
+
+THC (psychoactive constituent of cannabis) has increased over the past 60 years.
+
+### Short term effects on the brain
+
+- relaxation
+- altered sense of perception
+- inability to focus
+- increased appetite
+- anxiety of paranoia
+
+---
+
+Marijuana affects one's ability to learn---affects the brain's ability to commit information from short term to long term.
+
+Legal in CA for 21+ year olds.
+
+Edibles are a way to consume cannabis
+
+Their effects last a longer period than smokes
+
+## Vaping Notes
+
+Tobacco/nicotine (in cigaretes and vapes)
+
+
