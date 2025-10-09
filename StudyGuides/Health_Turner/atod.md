@@ -201,7 +201,7 @@ THC (psychoactive constituent of cannabis) has increased over the past 60 years.
 
 Marijuana affects one's ability to learn---affects the brain's ability to commit information from short term to long term.
 
-Legal in CA for 21+ year olds.
+Legal in CA for **21+ year olds**.
 
 Edibles are a way to consume cannabis
 
@@ -211,4 +211,22 @@ Their effects last a longer period than smokes
 
 Tobacco/nicotine (in cigaretes and vapes)
 
+**Methods of use**: Smoking, through edibles, vaping, injecting, e-cigs, nicotine patches
 
+**Short term effects:** Becoming high, being relaxed, nausea, euphoria, increased focus, relaxed, couphing, smell (bad breath)
+
+**Long term effects:** Respiratory issues, loss of control, addiction, lung cancer, heart disease.
+
+Vaping and smoking
+
+NIcotine binds on receivers, increasing dopamine
+
+The brain creates more receptors in response
+
+Smoking stimulates faster
+
+Vaping makes less smoke
+
+E-sige cause respiratory infections.
+
+---
