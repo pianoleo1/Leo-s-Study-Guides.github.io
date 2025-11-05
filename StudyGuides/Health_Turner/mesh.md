@@ -85,9 +85,8 @@ There are almost always warning signs of suicide.
 
 ### Treatment options of depression
 
-psychotherapy | medication | _lifestyle & self-care_ | _iii_ | _iii_ | _iii_
---- | --- | --- | --- | --- | ---
-"talk" therapy | - | _mental_ | _emotional_ | _physical_ | _social_
-| - | - | tending to mind by practicing mindfulness and learning continuously | staying in touch or fully engaging with emotions | staying healthy with physical activities | staying connected with friends and family
----
+| psychotherapy | medication | _lifestyle & self-care_ | _iii_ | _iii_ | _iii_ |
+| --- | --- | --- | --- | --- | --- |
+| "talk" therapy | - | _mental_ | _emotional_ | _physical_ | _social_ |
+| - | - | tending to mind by practicing mindfulness and learning continuously | staying in touch or fully engaging with emotions | staying healthy with physical activities | staying connected with friends and family |
 
