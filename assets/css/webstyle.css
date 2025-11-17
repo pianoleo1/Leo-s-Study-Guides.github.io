@@ -212,7 +212,6 @@
             z-index: 1000; /* Ensure the button is above other elements */
         }
 
-
         @layer properties {
         @property --bg-position {
             syntax: "<number>";
