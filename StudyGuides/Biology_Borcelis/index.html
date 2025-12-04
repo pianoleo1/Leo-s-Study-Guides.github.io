@@ -215,19 +215,23 @@
         }
 
         .top-button {
-            text-decoration: none;
+            display: inline-block;
+            text-align: center;
+            background-color: none;
             color: black;
+            position: fixed;
+            text-decoration: none;
             padding: 10px 20px;
             border-radius: 0px;
-            font-weight: bold;
             border: none;
             cursor: pointer;
             transition: 0.3s;
             background-color: none;
+            opacity: 0;
         }
         .top-button:hover {
-            background-color: none;
-            color: black;
+            background-color: yellowgreen;
+            opacity: 1;
         }
         
         .study-guide-box {
@@ -339,6 +343,7 @@
     <footer>
         <p>Leo's Study Guides - Made by Leo</p>
     </footer>
+    <a href="selectedfinal.html" class="top-button">Selected Final</a>
     <button class="chat-button" onclick="window.open('https://mail.google.com/mail/?view=cm&fs=1&to=hz8409%40pleasantonusd.net&authuser=0', '_blank')"></button>
 </body>
 </html>

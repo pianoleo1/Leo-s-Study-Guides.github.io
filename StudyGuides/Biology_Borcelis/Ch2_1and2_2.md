@@ -35,7 +35,7 @@ Isotopes are atoms with changed number of neutrons. They are used to find the ag
 **Radioactive isotopes**: Isotopes with unstable nuclei that break down.
 ### Chemical Compounds
 
-Substances that have $\ge$ to two elements combined in a **fixed ratio**.
+Substances that have ≥ two elements combined in a **fixed ratio**.
 
 ### Chemical Bonds
 

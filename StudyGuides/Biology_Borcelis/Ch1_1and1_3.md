@@ -17,7 +17,7 @@
 
 **precise**: Similar to other trials.
 
-**accurate**: NOmerical accuracy (by reading measurements, etc.).
+**accurate**: Numerical accuracy (by reading measurements, etc.).
 
 **scientists** explain things in our world.
 
