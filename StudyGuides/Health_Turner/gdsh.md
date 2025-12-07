@@ -43,10 +43,10 @@ Consent is . . .
 **S**pecific
 
 ### Teen Dating Violence
-#### Forms of Abuce
-physical | emotional & verbal | sexual | digital
---- | --- | --- | ---
-pushing/shoving, strangulation, punching walls | constant criticism | forcing someone to have sex | cyber bullying, targeting
+#### Forms of Abuse
+| physical | emotional & verbal | sexual | digital |
+| --- | --- | --- | --- |
+| pushing/shoving, strangulation, punching walls | constant criticism | forcing someone to have sex | cyber bullying, targeting |
 
 #### How to Stop Victim Blaming
 - believe survivors

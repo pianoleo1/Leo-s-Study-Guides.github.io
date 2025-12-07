@@ -20,6 +20,7 @@ Cord | Power
 Base | Stability
 Slide | Holding specimen
 Cover Slip | Protects/secures specimen
+
 ## Nature of Matter
 ### Ions
 Ions are atoms that have positive or negative charge by reducing or increasing the number of electrons.
