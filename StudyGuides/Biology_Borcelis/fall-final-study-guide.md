@@ -179,3 +179,13 @@ Enzymes bind to substrates, breaking or combining them. This speeds up chemical 
 ### 6. The Lock and Key Model of enzymes
 
 An enzyme's active site (the lock) can only bind to a specific substrate(the key). The substrate is like a key that starts the chemical reaction.
+
+### 7. The effects of various environments on enzymes
+
+**Temperature**: increaseing temperature increases the rate of the reaction (particles move faster).
+<br>**pH**: changes can affect the speed of a reaction.
+<br>**competitive inhibitors**: other foreign substrates compete with substrates that actually binds to the active site.
+
+### 8. When an enzyme is denatured
+
+The active site is deformed and cannot accept substrates caused by **(extreme pH changes, temperature, ion strength, and solubility)**.
