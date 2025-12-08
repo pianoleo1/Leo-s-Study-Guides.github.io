@@ -64,7 +64,7 @@ independent variable $x$: The variable that is changed during an experiment/does
 
 dependent variable $y$: The variable that depends on $x$.
 
-### Parts & function of a microscope + magnification
+### 6. Parts & function of a microscope + magnification
 
 #### Parts & function
 
@@ -91,7 +91,7 @@ Cover Slip | Protects/secures specimen
 
 [Magnification of eyepiece (10x)] $\cdot$ [Magnification of nosepiece] = [Total magnification]
 
-### Fact, theory, and hypothesis
+### 7. Fact, theory, and hypothesis
 
 [Credible source for further reading](https://ncse.ngo/definitions-fact-theory-and-law-scientific-work)
 
@@ -102,6 +102,80 @@ Cover Slip | Protects/secures specimen
 **hypothesis**: Possible explanation for a set of observations, or possible answers to a scientific question.
 
 
-### 8 levels of organization (smallest to largest)
+### 8. 8 levels of organization (smallest to largest)
 
 [unfinished: check back soon!]
+
+### 9. CER
+
+claim: a statement<br>
+evidence: data to support the claim<br>
+reasoning: links the evidence to the claim.
+
+## Chapter 2: Chemistry of living things
+
+### 1. Water 
+ <mark>__________</mark> 
+
+#### Structure
+H<sub>2</sub>O
+
+#### Bonds
+
+#### Properties
+
+Water is **polar** (uneven charge between the atoms).
+
+Water is an excellent **solvent**.
+
+Water has **cohesion** (attraction between same molecules) and **adhesion** (attraction between two chemically different molecules) properties.
+
+Water has a **high specific heat** (amount of energy needed to heat one gram of water by 1 &deg;C)
+
+Water uses hydrogen bonding to covalent bond (when atoms share electrons): The negatively charged oxygen atom hydrogen bonds to the positive hydrogen atoms.
+
+### 2. Solutions and pH
+
+#### Solutions
+
+**solute**: the matter being dissolved. <br>
+**solvent**: the matter that dissolves. <br>
+**solution**: the result of the process of dissolving.
+
+#### pH
+
+higher pH = more basic (OH<sup>-</sup>)
+<br> lower pH = more acidic (H<sup>+</sup>)
+
+word | definition
+--- | ---
+capillary action | When water goes up thin tubes, leveraging adhesion and cohesion.
+mixture |  When two substances are not chemically bonded, and they can still be physically seperated.
+solution | When a solvent dissolves a solute.
+suspension | Not dissolved, but still seperated by solvent (Ex. sand in water).
+buffers | Weak acids or bases that prevent sharp changes in pH.
+
+<mark>__________</mark>
+
+### 3. Macromolecules
+
+Polymer | Monomer | Function | General Structure | Molecular Structure | Examples
+--- | --- | --- | --- | --- | ---
+Carbohydrate (Polysacchoride) | Monosacchoride (glucose, other *ose*) | Energy, structure protection | CHO | ![carbohydrate molecular structure](https://chemistrytalk.org/wp-content/uploads/2023/03/beta-glucose-haworth-1.png) | Starch, rice, pasta
+Lipid (Triglycerides) | Glycerol & fatty acids | Energy storage, membranes, chemical messengers, Insulation, cushioning, waterproof covers. | CH (long hydrocarbon chains)O | ![lipids molecular structure](https://chemistrytalk.org/wp-content/uploads/2023/03/221_Fatty_Acids_Shapes-01.jpg) | Oils, fish, avocado
+Proteins (polypeptides) | Amino Acids | Act as enzymes, communication between cells, cellular structures, transport substances, fight disease (Vitamin C). | CHON | ![Protein structure](https://www.creative-proteomics.com/pronalyse/upload/image/what-are-protein-structure-1.jpg) | Meats, beans
+Nucleic Acids (Polynucleotides [DNA, RNA]) | Nucleotide (pentose (5-carbon sugar), phosphate group, nitrogenous base) | Stores and transmits genetics | CHONP | ![Nucleic Acids molecular structure](https://study.com/cimages/multimages/16/Nucleotide_simple.png) | Strawberry, beef
+
+### 4. The role of enzymes in chemical reactions
+
+Enzymes bind to substrates, breaking or combining them. This speeds up chemical reactions by reducing the activation energy.
+
+<mark>________</mark>
+
+### 5. Enzymatic reactions
+
+<mark>Pencil</mark>
+
+### 6. The Lock and Key Model of enzymes
+
+An enzyme's active site (the lock) can only bind to a specific substrate(the key). The substrate is like a key that starts the chemical reaction.
