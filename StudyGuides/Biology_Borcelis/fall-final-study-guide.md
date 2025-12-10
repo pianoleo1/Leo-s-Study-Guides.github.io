@@ -102,9 +102,15 @@ Cover Slip | Protects/secures specimen
 **hypothesis**: Possible explanation for a set of observations, or possible answers to a scientific question.
 
 
-### 8. 8 levels of organization (smallest to largest)
+### 8. 8 (actually 7) levels of organization (smallest to largest)
 
-[unfinished: check back soon!]
+1. organism
+2. species
+3. population
+4. community
+5. ecosystem
+6. biome
+7. biosphere
 
 ### 9. CER
 
@@ -120,7 +126,11 @@ reasoning: links the evidence to the claim.
 #### Structure
 H<sub>2</sub>O
 
+The atoms are bonded by covalent bonds (when atoms share electrons).
+
 #### Bonds
+
+The hydrogen atoms and oxygen atom are bonded by covalent bonds (when atoms share electrons).
 
 #### Properties
 
@@ -129,6 +139,8 @@ Water is **polar** (uneven charge between the atoms).
 Water is an excellent **solvent**.
 
 Water has **cohesion** (attraction between same molecules) and **adhesion** (attraction between two chemically different molecules) properties.
+
+*Example of adhesion*: **Capillary Action**
 
 Water has a **high specific heat** (amount of energy needed to heat one gram of water by 1 &deg;C)
 
@@ -140,12 +152,20 @@ Water uses hydrogen bonding to covalent bond (when atoms share electrons): The n
 
 **solute**: the matter being dissolved. <br>
 **solvent**: the matter that dissolves. <br>
-**solution**: the result of the process of dissolving.
+**solution**: the result of the process of dissolving. <br>
 
 #### pH
 
+Ranges from **0 to 14**, and each step represents a factor of **10** (much like an earthquake scale)
+
 higher pH = more basic (OH<sup>-</sup>)
 <br> lower pH = more acidic (H<sup>+</sup>)
+
+**strong acids or bases** cause great change in pH (acid or base).
+
+**buffers**: **week acids or bases** that can react with strong acids or bases to prevent sharp, sudden changes in pH. If a sulution contains a buffer, adding an acid will only cause a slight pH change.
+
+<img width="374" height="619" alt="image" src="https://github.com/user-attachments/assets/b571aec9-d1dd-4857-bd84-d4f776a74186" />
 
 word | definition
 --- | ---
@@ -154,8 +174,6 @@ mixture |  When two substances are not chemically bonded, and they can still be 
 solution | When a solvent dissolves a solute.
 suspension | Not dissolved, but still seperated by solvent (Ex. sand in water).
 buffers | Weak acids or bases that prevent sharp changes in pH.
-
-<mark>__________</mark>
 
 ### 3. Macromolecules
 
@@ -168,9 +186,7 @@ Nucleic Acids (Polynucleotides [DNA, RNA]) | Nucleotide (pentose (5-carbon sugar
 
 ### 4. The role of enzymes in chemical reactions
 
-Enzymes bind to substrates, breaking or combining them. This speeds up chemical reactions by reducing the activation energy.
-
-<mark>________</mark>
+Enzymes bind to substrates, breaking or combining them. This speeds up chemical reactions by reducing the activation energy (hence the name "catalysts").
 
 ### 5. Enzymatic reactions
 
