@@ -1,5 +1,11 @@
 ---
 title: Biology Fall Final Study Guide
+author: Leo Zhang
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 <head>
@@ -121,7 +127,6 @@ reasoning: links the evidence to the claim.
 ## Chapter 2: Chemistry of living things
 
 ### 1. Water 
- <mark>__________</mark> 
 
 #### Structure
 H<sub>2</sub>O
@@ -204,4 +209,99 @@ An enzyme's active site (the lock) can only bind to a specific substrate(the key
 
 ### 8. When an enzyme is denatured
 
-The active site is deformed and cannot accept substrates caused by **(extreme pH changes, temperature, ion strength, and solubility)**.
+The active site is deformed and cannot accept substrates caused by **extreme pH changes, temperature, ion strength, and solubility**.
+
+### 9. Chemical components of Oxygen
+
+[The Periodic Table](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLCDuQvSvo8R4T8_Zlpeq-BSY6K5SMnZBUSA&s)
+
+<img width="238" height="275" alt="image" src="https://github.com/user-attachments/assets/1e58d0cc-462c-4c5f-80d1-59db338547fa" />
+<p>#</p> *protons**: 8
+*electrons*: 8
+*neutrons*: 8
+
+## Chapters 4-7, Ecology
+
+### 1. Biotic and abiotic factors
+
+**biotic factors**: living components in an ecosystem. (Ex. grass, cows)
+<br>**abiotic factors**: nonliving components in an ecosystem. (Ex. rocks, river)
+
+### 2. Biodiversity
+
+Definition: ***The variety of life***
+
+Humans impact the environment by leaving behind harmful traces.
+<mark>check</mark>
+
+### 3. Types of organisms
+
+term | definition
+--- | ---
+producer | an organism that makes and stores food for consumers
+consumer | an organism that consumes other living things for energy
+primary consumer | a consumer that directly eats plants (*2nd step of trophic level*)
+secondary consumer | a consumer that eats other consumers for energy (*3rd step*)
+tertiary consumer | a consumer that eats other consumers for energy (*4th step*)
+herbivore | a consumer that only eats autotrophs
+decomposer | an organism that breaks things down chemically
+scavenger | an organism that feeds on dead or decaying matter
+detrivore | an organism that breaks things down physically (through digestion)
+
+### 4. Biomass Pyramids
+
+<mark>pencil</mark>
+
+### 5. The rule of 10%
+
+The energy absorbed from a trophic level is only 10% of the energy transferred to the previous trophic level [the rest 90% is lost in heat (to maintain homeostasis)]
+
+### 6. Keystone species
+
+A species that provides structure and stability to an ecosystem.
+
+### 7. Primary vs. secondary succession
+
+Primary succession is succession that initiates from bare rock, and secondary succession is succession that occurs after a natural disaster took place (when there is still a thin layer of soil on the ground)
+
+### 8. Water cycle
+
+<mark>pencil</mark>
+
+### 9. Carbon cycle
+
+<mark>pencil</mark>
+
+### 10. Nitrogen cycle
+
+Bacteria and lightning fixes nitrogen gas, then, promary producers absorb them. It is transferred to heterotrophs and denitrified after they die. 
+
+**Legume plants** have roots that have N-fixing bacteria, giving them an advantage.
+
+**nitrogen fixation**: The process used by certain bacteria of converting nitrogen gas into ammonia.
+
+**denitrification**: The process used by some bacteria that involves obtaining energy by converting nitrates into nitrogen gas.
+
+<mark>pencil</mark>
+
+### 11. Symbiosis
+
+Word | definition
+mutualism | symbiosis in which both organisms benefit
+commensalism | symbiosis in which one organism benefits, and the other is unaffected
+parasitism | symbiosis in which one organism benefits, and the other is harmed
+competition | a struggle to obtain resources (usually results in parasitism-like results)
+
+### 12. Food chains and food webs
+
+food chains: diagram showing the energy transfer of organisms (only one arrow points to each organism).
+food web: a combination of many food chains.
+
+<mark>pencil</mark>
+
+### 13. Levels of biological organization
+
+w | def
+species | a group of similar organisms that can breed and produce fertile offspring
+population | an assemblage of the same species in an area
+community | an assemblage of different populations that live together in a defined area
