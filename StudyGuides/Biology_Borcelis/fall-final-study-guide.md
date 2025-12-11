@@ -305,3 +305,94 @@ w | def
 species | a group of similar organisms that can breed and produce fertile offspring
 population | an assemblage of the same species in an area
 community | an assemblage of different populations that live together in a defined area
+ecosystem | all the organisms that live in a place, together with their physical environment
+biome | a group of ecosystems that share similar climates and typical organisms
+
+### 14. Energy in an ecosystem
+
+Most of the energy in an ecosystem comes from **the sun** (without it, life cannot be sustained on Earth).
+
+### 15. Limiting factors
+
+*Limiting factors are Factors that control a population.*
+
+**Density-dependent limiting factors**: limiting factors that arise only when population density is high. *Ex. diseases, competition, parasitism, stress from overcrowding, herbivory, and predation.*
+
+**Density-independent limiting factors**: limiting factors that do not operate more strongly when population density is different. *Ex. Natural disasters and environmental extremes*
+
+### 16. Types of population growth
+
+**Exponential growth** (J-curve): When a population has enough resources, reproduction keeps the population growing exponentially.
+
+<mark>pencil</mark>
+
+**Logistic growth** (S-curve): When a population experiences density-dependent limiting factors, making birth rate equal death date.
+
+<mark>pencil</mark>
+
+### 17. Effecs of immigration, emigration, birth, and death rates on a population
+
+If birth rate > death rate, population increases.
+
+If birth rate < death rate, population decreases.
+
+immigration happens when resources are plentiful, increasing population.
+
+emigration happens when there is a limiting resource, decreasing population.
+
+### 18. Changing environmental conditions on populations
+
+If environmental conditions fall above or below tolerance, organisms need more energy for maintaining homeostasis, and they have less energy for growth and reproduction.
+
+## Chapter 8, Cell structure & function
+
+### 1. Cell parts
+
+cell part | function | process involved | consequences to the cell if this cell part is not functioning properly
+--- | --- | --- | ---
+nucleus | 
+ribosome | 
+golgi apparatus | 
+endoplasmic reticulum | 
+cell membrane | 
+mitochondria | 
+chloroplast | 
+vacuole | 
+vesicle | 
+lysosome | 
+
+### 2. Cell theory
+
+1. All living things contain cells
+2. Cells are the basic units of structure and function in living things
+3. New cells come from existing cells
+
+### 3. Prokaryotic vs. eukaryotic cells, plant vs. animal cells
+
+<mark>pencil</mark>
+
+### 4. Cells are small
+
+<mark>____</mark>
+
+### 5. Cells in different concentrations
+
+<mark>pencil</mark>
+
+### 6. Transport through the cell membrane
+
+<mark>pencil</mark>
+
+### 7. The cell membrane
+
+<mark>____</mark>
+
+### 8. Selectively permeable cell membrane
+
+The cell membrane only allows some things to pass through and not others.
+
+### 9. Fluid mosaic cell membrane
+
+There are many different types of molecules on the cell membrane, making it look like a colorful, irregular mosaic picture.
+
+## Chapters 9 & 10, Carbon Cycling & Energy Aquisition
