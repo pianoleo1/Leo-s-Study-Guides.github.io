@@ -375,7 +375,9 @@ central vacuole<br />cell wall<br>chloroplast<br>does not burst easity under osm
 
 ### 4. Cells are small
 
-<mark>____</mark>
+When cells are small, they allow molecules to be transported efficiently. Ex. During protein synthesis, it is easier to transport proteins if the Golgi Apparatus is closer to the ER, as it can find the vesicle faster.
+
+As cells grow bigger, they need to divide to sustain cellular efficiency.
 
 ### 5. Cells in different concentrations
 
