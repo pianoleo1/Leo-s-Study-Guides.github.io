@@ -195,7 +195,7 @@ Enzymes bind to substrates, breaking or combining them. This speeds up chemical 
 
 ### 5. Enzymatic reactions
 
-<mark>Pencil</mark>
+![substrate, enzyme](IMG_0595.png)
 
 ### 6. The Lock and Key Model of enzymes
 
@@ -248,9 +248,9 @@ decomposer | an organism that breaks things down chemically
 scavenger | an organism that feeds on dead or decaying matter
 detrivore | an organism that breaks things down physically (through digestion)
 
-### 4. Biomass Pyramids
+### 4. Biomass Pyramid
 
-<mark>pencil</mark>
+![alt text](IMG_0597.png)
 
 ### 5. The rule of 10%
 
@@ -266,11 +266,11 @@ Primary succession is succession that initiates from bare rock, and secondary su
 
 ### 8. Water cycle
 
-<mark>pencil</mark>
+![alt text](IMG_0598.png)
 
 ### 9. Carbon cycle
 
-<mark>pencil</mark>
+![alt text](IMG_0599.jpeg)
 
 ### 10. Nitrogen cycle
 
@@ -281,8 +281,6 @@ Bacteria and lightning fixes nitrogen gas, then, promary producers absorb them. 
 **nitrogen fixation**: The process used by certain bacteria of converting nitrogen gas into ammonia.
 
 **denitrification**: The process used by some bacteria that involves obtaining energy by converting nitrates into nitrogen gas.
-
-<mark>pencil</mark>
 
 ### 11. Symbiosis
 
@@ -297,7 +295,7 @@ competition | a struggle to obtain resources (usually results in parasitism-like
 food chains: diagram showing the energy transfer of organisms (only one arrow points to each organism).
 food web: a combination of many food chains.
 
-<mark>pencil</mark>
+![alt text](IMG_0601.jpeg)
 
 ### 13. Levels of biological organization
 
@@ -324,11 +322,9 @@ Most of the energy in an ecosystem comes from **the sun** (without it, life cann
 
 **Exponential growth** (J-curve): When a population has enough resources, reproduction keeps the population growing exponentially.
 
-<mark>pencil</mark>
-
 **Logistic growth** (S-curve): When a population experiences density-dependent limiting factors, making birth rate equal death date.
 
-<mark>pencil</mark>
+![alt text](IMG_0602.jpeg)
 
 ### 17. Effecs of immigration, emigration, birth, and death rates on a population
 
@@ -369,7 +365,13 @@ lysosome |
 
 ### 3. Prokaryotic vs. eukaryotic cells, plant vs. animal cells
 
-<mark>pencil</mark>
+prokaryotes only | both | eukaryotes only
+--- | --- | ---
+no nucleus<br>no ER<br>no lysosomes<br>no golgi apparatus <br> no vesicle | has cell membrane <br> has DNA <br> has ribosomes <br> has cytoplasm | has nucleus <br> has vesicle <br> has golgi apparatus <br> has ER
+
+plants only | both | animals only
+--- | --- | ---
+central vacuole<br />cell wall<br>chloroplast<br>does not burst easity under osmotic pressure | cytoskeleton <br> nucleus <br> golgi apparatus <br> ER <br> vesicle <br> ribosomes <br> cell membrane <br> cytoplasm <br> DNA <br> mitochondria <br> nucleolus <br> nuclear envelop <br> lysosomes (*rare in plants*) | <br> flagella <br> centriole <bf> contractile vacuole <br> bursts easily under osmotic pressure
 
 ### 4. Cells are small
 
