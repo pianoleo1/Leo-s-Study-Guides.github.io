@@ -333,7 +333,7 @@ Most of the energy in an ecosystem comes from **the sun** (without it, life cann
 
 **Logistic growth** (S-curve): When a population experiences density-dependent limiting factors, making birth rate equal death date.
 
-<img height="400" alt="image" src="IMG_0602.jpeg" />
+![Exponential and logistic growth](https://upload.wikimedia.org/wikipedia/en/1/1c/Population_growth.png)
 
 ### 17. Effecs of immigration, emigration, birth, and death rates on a population
 
