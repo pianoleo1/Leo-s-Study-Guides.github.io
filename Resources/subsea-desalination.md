@@ -2,8 +2,6 @@
 title: Briefing - Subsea Desalination Brings Hope from the Deep
 ---
 
-<div style="text-align: left; font-family: Georgia;">
-
 # Briefing - Subsea Desalination Brings Hope from the Deep
 
 ## Introduction
@@ -51,6 +49,3 @@ title: Briefing - Subsea Desalination Brings Hope from the Deep
 <sup>2</sup>Ramirez, Vanessa Bates. “Drink Deep.” _Scientific American_, Oct. 2025, pp. 10–12. 
 
 <sup>3</sup>Office of Regulatory Affairs. “Reverse Osmosis.” _Reverse Osmosis | FDA_, FDA, 21 Oct. 1980, www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-technical-guides/reverse-osmosis. 
-
-<!--end text-->
-</div>
