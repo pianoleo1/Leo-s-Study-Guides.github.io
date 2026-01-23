@@ -209,22 +209,28 @@
         }
 
         .top-button {
-            display: inline-block;
-            text-align: center;
-            background-color: none;
-            color: black;
-            position: fixed;
-            text-decoration: none;
-            padding: 10px 20px;
-            border-radius: 0px;
-            border: none;
-            cursor: pointer;
-            transition: 0.3s;
-            background-color: none;
             opacity: 0;
+            margin-left: auto;
+            margin-right: auto;
+            align-self: center;
+            display: inline-block;
+            background-color: #e3ffe5;
+            color: black;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 20px;
+            font-size: 16px;
+            transition: 0.5s;
+            flex: 1; /* Allow buttons to take equal space */
+            margin: 5px; /* Add spacing between buttons */
+            text-align: center; /* Center text inside buttons */
+            box-shadow:  -6px 5px 5px rgba(0,0,0,0.4); /* Add shadow for depth */
+            border: 5px solid green;
         }
         .top-button:hover {
-            background-color: yellowgreen;
+            background-color: #22aa50;
+            color: black;
+            border: 2px solid green;
             opacity: 1;
         }
         
@@ -328,7 +334,9 @@
     <footer>
         <p>Leo's Study Guides - Made by Leo</p>
     </footer>
-    <a href="E.P._final.html" class="top-button">E.P. for Final</a>
+    <div style="text-align: center;">
+        <a href="E.P._7.html" class="top-button">Chapter 7 Extra Practice</a>
+    </div>
     <button class="chat-button" onclick="window.open('https://mail.google.com/mail/?view=cm&fs=1&to=hz8409%40pleasantonusd.net&authuser=0', '_blank')"></button>
 </body>
 </html>
