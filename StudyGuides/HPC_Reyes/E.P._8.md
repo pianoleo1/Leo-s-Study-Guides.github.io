@@ -8,13 +8,14 @@ author: Leo Zhang
         text-align: center;
     }
     a {
-        color: #e3ffe5;
+        color: darkgreen;
     }
     a:hover {
-        color: #8e9f8f;
+        color: black;
         text-decoration: none;
     }
 </style>
+
 # Chapter 8 Extra Practice
 
 Number | Extra Practice | Solution | Done | Checked
