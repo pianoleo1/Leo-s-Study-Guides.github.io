@@ -42,7 +42,7 @@
             background-color: #e3ffe5;
             font-family: Georgia, 'Times New Roman', Times, serif;
             background-image: 
-                linear-gradient(rgb(84, 244, 255), rgba(0, 0, 0, 0)),
+                linear-gradient(#E7F8C6, rgba(0, 0, 0, 0)),
                 url('https://i.pinimg.com/736x/8d/d9/b6/8dd9b6e70ab1a43414c7450b6fc0f044.jpg'); /* Path to your image */
             background-size: cover; /* Ensures the image covers the entire screen */
             background-position: center; /* Centers the image */
