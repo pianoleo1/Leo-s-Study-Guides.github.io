@@ -1,0 +1,208 @@
+<div style="font-family: Georgia;">
+---
+---
+
+# Chapter 11 and 12 Study Guide
+## Chapter 11
+### 1. 3 Limits of Cell Growth
+
+1. Amount of DNA
+2. Speed of Cell transport across the membrane
+3. Surface area to volume ratio
+
+### 2. Sexual Reproduction vs Asexual Reproduction
+
+sexual | asexual
+--- | ---
+two parents | one parent
+slower | faster, allows successful competition with other organisms
+produces genetic diversity | no genetic diversity
+
+### 3. The Relationship Between DNA, Chromatin, Chromosomes, and Chromatids
+
+- **DNA**: an individual nucleic acid molecule
+- **chromatin**: an uncondensed form of DNA and histones
+- **chromosomes**: condensed chromatin containing two chromatids
+- **chromatids**: identical "sister" parts of a duplicated chromosome
+
+### 4. The Cell Cycle
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+### 5. The Longest Phase
+
+*Interphase*
+
+### 6. The Purpose of Mitosis
+
+Mitosis divides a cell into two *identical* daughter cells.
+
+- Growth
+- Repair
+
+### 7. Figure 1 Shows . . .
+
+This figure shows **anaphase** becuase the chromatids are being pulled apart, and there is no nuclear envelope around DNA.
+
+### 8. Figure 2 Shows . . . 
+
+This figure shows **metaphase** because the centromeres are lined up across the *middle* of the cell, held by spindles.
+
+### 9. If a Cell Started with 4 Chromosomes . . . 
+
+If a cell started with 4 chromosomes, there would be two cells and four chromosomes at the end of mitosis.
+
+### 10. Why are stem cells so attractive as medical treatments?
+
+Stem cells can be used to treat deadly disorders and diseases such as heart attacks, strokes, and spinal ord injuries.
+
+### 11. How do cells know when to start or stop the cell cycle?
+
+- Cells are regulated by *growth factors*, which stimulate the growth and division of cells. Other **external regulatory proteins** on the surface of other cells cause a cell to slow down or stop growing. 
+    - Ex. ***cyclin*** - a growth factor that binds with an enyme to produce mitosis-promoting factor. Its level rises and falls to control the cell cycle.
+
+- **Internal regulators** include checkpoint proteins, which makes sure that certain events have taken place before proceeding. 
+    - Ex. ***p53 protein*** - stops the cell cycle until all chromosomes have been replicated correctly.
+
+### 12. Uncontrolled Cell Division
+
+When a cell loses the ability to divide correctly, **cancer** is observed.
+
+### 13. Apoptosis
+
+- Definition: the programmed death of cells.
+
+- Process: Cells produce self-destructive proteins, and they shrink and the cell membrane breaks off.
+
+It could be a good thing (cancer cells dying) or a bad thing (good cells dying)
+
+## Chapter 12
+### 1. What does meiosis create, and why is that important?
+
+Meiiosis create four haploid cells from one diploid cell, and each cell is unique. This is important because meiosis allows sexual reproduction, along with genetic diversity and natural selection, to occur.
+
+### 2. A cell with 40 chromosomes starts meiosis. After meiosis 2 is complete, how many cells are there and how many chromosomes are in each cell?
+
+40 chromosomes 1 cell &rarr; (meiosis I) &rarr; 20 chromosomes (each) 2 cells &rarr; (meiosis II) &rarr; **20 chromosomes (each) 4 cells**
+
+### 3. The Human *Diploid* Number
+
+46
+
+### 4. Symbol Used to Represent the *Diploid* Number of a Cell
+
+2N
+
+### 5. The Human *Haploid* Number
+
+23
+
+### 6. Symbol Used to Represent the *Haploid* Number of a Cell
+
+N
+
+### 7. If a human gamete . . . 
+
+If a human gamete accidentally went through mitosis instead of meiosis and combined with another person's gamete that underwent meiosis, what would the resulting number of chromosomes of that zygote be?
+
+human gamete (23 chromosomes) goes through mitosis (still 23 chromosomes) & combines with another gamete (23 chromosomes)
+
+$23 + 23 = 46$ chromosomes
+
+### 8. What Kind of Inheritance Pattern Results in a Red Flower and a White Flower Mating to Form a Pink Flower?
+
+**Incomplete dominance** (results in a *mixture* of phenotypes)
+
+### 9. Different Forms of a Gene
+
+Different forms of a gene are called *alleles*.
+
+### 10. False Statement
+
+False: Performing a cross to produce an F1 generation can be used to show if an allele is dominant.
+
+### 11. Mendel's Method
+
+Mendel cut of the male parts (pollen grains) of his pea plants and fertilized the egg with pollen from another flower, achieving *cross-pollination*.
+
+### 12. How a Trait is Inherited and What Causes It to Vary Among Individuals
+
+A trait is coded in a gene, which is given to the offspring from gametes. Different alleles produce different traits, and during gamete formation, alleles *segregate* so that each person receives varying alleles and varying traits.
+
+### 13. A Punnet Square is Not Useful When
+
+determining the number of offspring that could result from a cross.
+
+### 14. What Kind of Inheritance Pattern Results in a Red Flower and a White Flower Mating to Form a Red and White Flower?
+
+**Codominance** (results in both phenotypes being clearly expressed)
+
+### 15. False Statement Regarding a Cross Between Two T<u>t</u> Parents
+
+an offspring is more likely to inherit a T allele than a <u>t</u> allele.
+
+### 16. Phenotype vs. Genotype & Homozygous vs. Heterozygous
+
+phenotype | genotype | homozygous | heterozygous
+--- | --- | --- | ---
+physical expression of a characteristic | genetic makeup | same alleles for the same gene | different alleles for the same gene
+
+### 17. &nbsp; &nbsp; &nbsp;
+
+### 18. &nbsp; &nbsp; &nbsp;
+
+### 19. Mendel's Four Basic Principles of Genetics
+
+Mendel's Principles of Heredity
+- Principle of Independent Assortment - alleles *for different genes* segregate independently during gamete formation.
+- Principle of Dominance - when two or more alleles of the same gene exist, some alleles may be dominant and others may be recessive.
+- Law of segregation - genes segregate from another when gametes are formed.
+- "The inheritance of biological characteristics is determined by individual units called genes, which are passed [on] from parents to offspring"
+
+### 20. Human ABO blood types are examples of traits that . . . 
+
+exibit both codominance and complete dominance.
+
+### 21. &nbsp; &nbsp; &nbsp;
+
+### 22. Multiple Alleles vs. Polygenic Traits
+
+multiple alleles | polygenic traits
+--- | ---
+more than two *alleles* for the same gene | more than two *genes* for the same trait
+
+### 23. Non-Mendelian Inheritance
+
+- **Non-Mendelian inheritance**: patterns of heredity that do not follow Mendel's principles of heredity.
+
+    - **incomplete dominance**: results in a mixture of phenotypes
+    - **codomminance**: results in both phenotypes being clearly expressed
+
+
+### 24. 
+An organism's characteristics are not only determined by its genes, but also determined by **environmental factors**.
+
+### 25. &nbsp; &nbsp; &nbsp;
+### 26. Gene map
+
+A **gene map** shows the location of various genes on a chromosome. It explaines that the further the genes are, the less likely that they are linked, and vice versa.
+
+### 27. &nbsp; &nbsp; &nbsp; 
+### 28. &nbsp; &nbsp; &nbsp; 
+### 29. &nbsp; &nbsp; &nbsp; 
+
+### 30. Chromosomes Assort Independently
+
+Individual genes don't usually assort independently when they are on the same chromosome. Chromosomes are seperated during meiosis and a random form of the gene is inserted into each gamete.
+
+---
+
+
+</div>
