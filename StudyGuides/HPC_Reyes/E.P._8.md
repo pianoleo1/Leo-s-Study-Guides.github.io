@@ -7,7 +7,7 @@ author: Leo Zhang
     h1 {
         text-align: center;
     }
-    body {
+    table {
         font-family: georgia, serif;
     }
     a {
