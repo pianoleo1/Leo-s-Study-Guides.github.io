@@ -17,6 +17,9 @@ author: Leo Zhang
         color: black;
         text-decoration: none;
     }
+    td {
+        font-family: "Segoe UI Symbol", "Apple Symbols", sans-serif;
+    }
 </style>
 
 # Chapter 8 Extra Practice
