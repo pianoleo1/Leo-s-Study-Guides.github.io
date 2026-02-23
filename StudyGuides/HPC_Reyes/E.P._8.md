@@ -31,6 +31,6 @@ Number | Extra Practice | Solution | Done | Checked
 6 | [Advanced Trig Review](https://drive.google.com/file/d/1GVj2uo29wqJOFXwNT1m8Dpw_3JXOIQ1w/view?usp=sharing) | [*Solutions*](https://drive.google.com/file/d/1M4JSQ6bI_lu3kkY4Ie6W-Rw9D1FZMwFW/view?usp=sharing) | &check; | &check;
 7 | [Ch. 8 and Earlier](https://drive.google.com/file/d/1gJwzqQe_Zhj5BO1f9oprNgfkztKmWpBL/view?usp=sharing) | [*Solutions*](https://drive.google.com/file/d/1_B30F84AwJTeuf8o_je4XZDMSTrMpQFe/view?usp=sharing) | &check; (CW) | &check;
 8 | [Even More Practice (Ch. 7 & 8\)](https://drive.google.com/file/d/1jXcULokj7VcHBC299RFpXkH3n6so1YcZ/view?usp=sharing) | [*Solutions*](https://drive.google.com/file/d/10G9GhAtMP5deV1nryHGLmFbJvv9rKshG/view?usp=sharing) | &check; (CW) | &check;
-9 | [More Trigonometry Practice](https://docs.google.com/document/d/1DwzqFu5H-XRodzT23w4GKq-LF2gq_fU1R4biB8flfsk/edit?usp=sharing) | [*Solutions*](https://docs.google.com/document/d/1A-WvD6YlwsVxB-wS6f-p98TeXLqvoo1oeUyxcCKEoVE/edit?usp=sharing)
-10 | [PC Trig Practice](https://docs.google.com/document/d/14-b-hJexvhRD0FOqS-l_xkQRW-Tx0FmirrlWY--jNWk/edit?usp=sharing) | [*Solutions*](https://drive.google.com/file/d/1WD8Tub1rDcsJcUiJcXkD9LAMX-nQ30ip/view?usp=sharing)
+9 | [More Trigonometry Practice](https://docs.google.com/document/d/1DwzqFu5H-XRodzT23w4GKq-LF2gq_fU1R4biB8flfsk/edit?usp=sharing) | [*Solutions*](https://docs.google.com/document/d/1A-WvD6YlwsVxB-wS6f-p98TeXLqvoo1oeUyxcCKEoVE/edit?usp=sharing) | &check; | &check;
+10 | [PC Trig Practice](https://docs.google.com/document/d/14-b-hJexvhRD0FOqS-l_xkQRW-Tx0FmirrlWY--jNWk/edit?usp=sharing) | [*Solutions*](https://drive.google.com/file/d/1WD8Tub1rDcsJcUiJcXkD9LAMX-nQ30ip/view?usp=sharing) | &check; | &check;
 
