@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biology Fall Final Quiz</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 800px; margin: 20px auto; padding: 20px; background-color: #f0f2f5; }
+        .quiz-container { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; text-align: center; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        .question { margin-top: 25px; margin-bottom: 10px; font-weight: bold; color: #34495e; }
+        .options { margin-bottom: 20px; }
+        .option { display: block; background: #f8f9fa; margin-bottom: 8px; padding: 10px; border-radius: 6px; cursor: pointer; border: 1px solid #dee2e6; transition: 0.2s; }
+        .option:hover { background: #e9ecef; }
+        .option input { margin-right: 10px; }
+        button { display: block; width: 100%; background-color: #3498db; color: white; border: none; padding: 12px; border-radius: 6px; font-size: 16px; cursor: pointer; margin-top: 20px; }
+        button:hover { background-color: #2980b9; }
+        #results { margin-top: 25px; padding: 15px; border-radius: 6px; text-align: center; font-size: 18px; font-weight: bold; display: none; }
+        .success { background-color: #d4edda; color: #155724; }
+    </style>
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Biology Fall Final Study Quiz</h1>
+        <form id="quiz-form">
+            <!-- Question 1 -->
+            <div class="question">1. Which of the following is a characteristic of all living things?</div>
+            <div class="options">
+                <label class="option"><input type="radio" name="q1" value="a"> Ability to breathe oxygen</label>
+                <label class="option"><input type="radio" name="q1" value="b"> Maintaining homeostasis</label>
+                <label class="option"><input type="radio" name="q1" value="c"> Having a nervous system</label>
+                <label class="option"><input type="radio" name="q1" value="d"> Being multicellular</label>
+            </div>
+
+            <!-- Question 2 -->
+            <div class="question">2. "The apple is red" is an example of what type of data?</div>
+            <div class="options">
+                <label class="option"><input type="radio" name="q2" value="a"> Quantitative</label>
+                <label class="option"><input type="radio" name="q2" value="b"> Qualitative</label>
+                <label class="option"><input type="radio" name="q2" value="c"> Numerical</label>
+                <label class="option"><input type="radio" name="q2" value="d"> Statistical</label>
+            </div>
+
+            <!-- Question 3 -->
+            <div class="question">3. What is the total magnification of a microscope using a 10x eyepiece and a 40x high power objective?</div>
+            <div class="options">
+                <label class="option"><input type="radio" name="q3" value="a"> 40x</label>
+                <label class="option"><input type="radio" name="q3" value="b"> 50x</label>
+                <label class="option"><input type="radio" name="q3" value="c"> 400x</label>
+                <label class="option"><input type="radio" name="q3" value="d"> 100x</label>
+            </div>
+
+            <!-- Question 4 -->
+            <div class="question">4. Which macromolecule acts as enzymes and helps fight disease?</div>
+            <div class="options">
+                <label class="option"><input type="radio" name="q4" value="a"> Carbohydrates</label>
+                <label class="option"><input type="radio" name="q4" value="b"> Lipids</label>
+                <label class="option"><input type="radio" name="q4" value="c"> Proteins</label>
+                <label class="option"><input type="radio" name="q4" value="d"> Nucleic Acids</label>
+            </div>
+
+            <!-- Question 5 -->
+            <div class="question">5. According to the rule of 10%, what percentage of energy is lost as heat between trophic levels?</div>
+            <div class="options">
+                <label class="option"><input type="radio" name="q5" value="a"> 10%</label>
+                <label class="option"><input type="radio" name="q5" value="b"> 50%</label>
+                <label class="option"><input type="radio" name="q5" value="c"> 90%</label>
+                <label class="option"><input type="radio" name="q5" value="d"> 100%</label>
+            </div>
+
+            <!-- Question 6 -->
+            <div class="question">6. Which organelle is responsible for storing DNA and providing instructions for protein synthesis?</div>
+            <div class="options">
+                <label class="option"><input type="radio" name="q6" value="a"> Mitochondria</label>
+                <label class="option"><input type="radio" name="q6" value="b"> Ribosome</label>
+                <label class="option"><input type="radio" name="q6" value="c"> Nucleus</label>
+                <label class="option"><input type="radio" name="q6" value="d"> Golgi Apparatus</label>
+            </div>
+
+            <!-- Question 7 -->
+            <div class="question">7. What are the reactants in the chemical equation for photosynthesis?</div>
+            <div class="options">
+                <label class="option"><input type="radio" name="q7" value="a"> Glucose and Oxygen</label>
+                <label class="option"><input type="radio" name="q7" value="b"> Carbon Dioxide and Water</label>
+                <label class="option"><input type="radio" name="q7" value="c"> ATP and NADPH</label>
+                <label class="option"><input type="radio" name="q7" value="d"> Pyruvic Acid and NADH</label>
+            </div>
+
+            <button type="button" onclick="calculateScore()">Submit Quiz</button>
+        </form>
+        <div id="results"></div>
+    </div>
+
+    <script>
+        function calculateScore() {
+            const answers = { q1: 'b', q2: 'b', q3: 'c', q4: 'c', q5: 'c', q6: 'c', q7: 'b' };
+            let score = 0;
+            let total = Object.keys(answers).length;
+            const form = document.getElementById('quiz-form');
+            
+            for (let key in answers) {
+                const selected = form.elements[key].value;
+                if (selected === answers[key]) {
+                    score++;
+                }
+            }
+
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.style.display = 'block';
+            resultsDiv.className = 'success';
+            resultsDiv.innerHTML = `You scored ${score} out of ${total}!`;
+        }
+    </script>
+</body>
+</html>
